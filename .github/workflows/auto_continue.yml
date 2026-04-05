@@ -1,0 +1,62 @@
+name: Auto-Continue Scanner
+
+on:
+  # Run every 90 minutes to check if we need to trigger next batch
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+
+jobs:
+  check-and-trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check latest scan status and trigger next if needed
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Get latest scan workflow runs
+          RUNS=$(curl -s -H "Authorization: token $GH_TOKEN" \
+            "https://api.github.com/repos/${{ github.repository }}/actions/workflows/citadel_scan.yml/runs?per_page=5&status=completed")
+
+          # Count completed successful runs
+          COMPLETED=$(echo "$RUNS" | python3 -c "
+          import sys, json
+          d = json.load(sys.stdin)
+          runs = d.get('workflow_runs', [])
+          successful = [r for r in runs if r.get('conclusion') == 'success']
+          print(len(successful))
+          ")
+
+          echo "Completed successful batches: $COMPLETED"
+
+          # Check if any scan is currently in progress
+          IN_PROGRESS=$(curl -s -H "Authorization: token $GH_TOKEN" \
+            "https://api.github.com/repos/${{ github.repository }}/actions/workflows/citadel_scan.yml/runs?status=in_progress" \
+            | python3 -c "import sys,json; print(json.load(sys.stdin).get('total_count',0))")
+
+          echo "Currently in progress: $IN_PROGRESS"
+
+          if [ "$IN_PROGRESS" -gt 0 ]; then
+            echo "Scan already running, skipping."
+            exit 0
+          fi
+
+          # Calculate next batch (completed + 2, since batch 1 was the first)
+          NEXT_BATCH=$((COMPLETED + 2))
+          MAX_BATCH=10
+
+          if [ "$NEXT_BATCH" -gt "$MAX_BATCH" ]; then
+            echo "All $MAX_BATCH batches complete! Target reached."
+            exit 0
+          fi
+
+          echo "Triggering batch $NEXT_BATCH..."
+          curl -s -X POST \
+            -H "Authorization: token $GH_TOKEN" \
+            -H "Accept: application/vnd.github.v3+json" \
+            "https://api.github.com/repos/${{ github.repository }}/actions/workflows/citadel_scan.yml/dispatches" \
+            -d "{\"ref\":\"master\",\"inputs\":{\"batch\":\"$NEXT_BATCH\",\"articles_per_cell\":\"250\"}}"
+
+          echo "Batch $NEXT_BATCH triggered successfully."

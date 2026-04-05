@@ -87,7 +87,7 @@ jobs:
       - name: Trigger next batch
         if: steps.check.outputs.continue == 'true'
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
         run: |
           curl -s -X POST \
             -H "Authorization: token $GH_TOKEN" \

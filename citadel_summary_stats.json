@@ -1,0 +1,183 @@
+{
+  "scan_name": "CITADEL-X Production Scan",
+  "scan_date": "2026-04-04",
+  "total_articles": 4780,
+  "total_refs": 301466,
+  "total_flagged_refs": 4372,
+  "confirmed_fake_articles": 11,
+  "confirmed_fake_refs": 181,
+  "overall_fake_rate_per_10K": 6.0,
+  "rate_by_domain": {
+    "stem": 19.1,
+    "cs_ai": 13.8,
+    "social_sciences": 0.0,
+    "law": 0.0,
+    "history_humanities": 0.0
+  },
+  "rate_by_year": {
+    "2023": 0.0,
+    "2024": 0.0,
+    "2025": 4.3,
+    "2026": 22.7
+  },
+  "rate_by_domain_year": {
+    "stem_2023": 0.0,
+    "stem_2024": 0.0,
+    "stem_2025": 23.5,
+    "stem_2026": 47.9,
+    "cs_ai_2023": 0.0,
+    "cs_ai_2024": 0.0,
+    "cs_ai_2025": 0.0,
+    "cs_ai_2026": 56.9,
+    "social_sciences_2023": 0.0,
+    "social_sciences_2024": 0.0,
+    "social_sciences_2025": 0.0,
+    "social_sciences_2026": 0.0,
+    "law_2023": 0.0,
+    "law_2024": 0.0,
+    "law_2025": 0.0,
+    "law_2026": 0.0,
+    "history_humanities_2023": 0.0,
+    "history_humanities_2024": 0.0,
+    "history_humanities_2025": 0.0,
+    "history_humanities_2026": 0.0
+  },
+  "top_10_worst_articles": [
+    {
+      "rank": 1,
+      "doi": "10.1016/j.jobe.2026.115980",
+      "journal": "Journal of Building Engineering",
+      "year": 2026,
+      "domain": "stem",
+      "fake_refs": 35,
+      "total_refs": 85,
+      "fake_fraction": 0.412
+    },
+    {
+      "rank": 2,
+      "doi": "10.1016/j.ins.2026.123423",
+      "journal": "Information Sciences",
+      "year": 2026,
+      "domain": "cs_ai",
+      "fake_refs": 23,
+      "total_refs": 50,
+      "fake_fraction": 0.46
+    },
+    {
+      "rank": 3,
+      "doi": "10.1016/j.jocs.2026.102852",
+      "journal": "Journal of Computational Science",
+      "year": 2026,
+      "domain": "cs_ai",
+      "fake_refs": 20,
+      "total_refs": 30,
+      "fake_fraction": 0.667
+    },
+    {
+      "rank": 4,
+      "doi": "10.1016/j.asoc.2026.114970",
+      "journal": "Applied Soft Computing",
+      "year": 2026,
+      "domain": "cs_ai",
+      "fake_refs": 17,
+      "total_refs": 36,
+      "fake_fraction": 0.472
+    },
+    {
+      "rank": 5,
+      "doi": "10.1088/2053-1591/ae45fa",
+      "journal": "Materials Research Express",
+      "year": 2026,
+      "domain": "stem",
+      "fake_refs": 17,
+      "total_refs": 66,
+      "fake_fraction": 0.258
+    },
+    {
+      "rank": 6,
+      "doi": "10.1016/j.molliq.2026.129534",
+      "journal": "Journal of Molecular Liquids",
+      "year": 2026,
+      "domain": "stem",
+      "fake_refs": 16,
+      "total_refs": 56,
+      "fake_fraction": 0.286
+    },
+    {
+      "rank": 7,
+      "doi": "10.1016/j.conbuildmat.2025.144502",
+      "journal": "Construction and Building Materials",
+      "year": 2025,
+      "domain": "stem",
+      "fake_refs": 14,
+      "total_refs": 42,
+      "fake_fraction": 0.333
+    },
+    {
+      "rank": 8,
+      "doi": "10.1016/j.physb.2025.417962",
+      "journal": "Physica B",
+      "year": 2025,
+      "domain": "stem",
+      "fake_refs": 13,
+      "total_refs": 32,
+      "fake_fraction": 0.406
+    },
+    {
+      "rank": 9,
+      "doi": "10.1016/j.eswa.2026.131840",
+      "journal": "Expert Systems with Applications",
+      "year": 2026,
+      "domain": "cs_ai",
+      "fake_refs": 13,
+      "total_refs": 78,
+      "fake_fraction": 0.167
+    },
+    {
+      "rank": 10,
+      "doi": "10.1088/2053-1591/ae284b",
+      "journal": "Materials Research Express",
+      "year": 2025,
+      "domain": "stem",
+      "fake_refs": 8,
+      "total_refs": 64,
+      "fake_fraction": 0.125
+    }
+  ],
+  "publisher_concentration": {
+    "IOP Publishing": 2,
+    "Elsevier": 9
+  },
+  "domain_scan_details": {
+    "stem": {
+      "articles": 1000,
+      "refs": 56526,
+      "flagged": 752,
+      "confirmed_fakes": 108
+    },
+    "cs_ai": {
+      "articles": 1000,
+      "refs": 52761,
+      "flagged": 603,
+      "confirmed_fakes": 73
+    },
+    "social_sciences": {
+      "articles": 1000,
+      "refs": 66901,
+      "flagged": 760,
+      "confirmed_fakes": 0
+    },
+    "law": {
+      "articles": 962,
+      "refs": 69598,
+      "flagged": 854,
+      "confirmed_fakes": 0
+    },
+    "history_humanities": {
+      "articles": 818,
+      "refs": 55680,
+      "flagged": 1403,
+      "confirmed_fakes": 0
+    }
+  }
+}

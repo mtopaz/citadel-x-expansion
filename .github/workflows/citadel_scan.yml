@@ -1,0 +1,92 @@
+name: CITADEL-X Unattended Scan
+
+on:
+  workflow_dispatch:
+    inputs:
+      articles_per_cell:
+        description: 'Articles per domain-year cell'
+        default: '500'
+        type: string
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    strategy:
+      matrix:
+        domain: [stem, cs_ai, social_sciences, law, history_humanities]
+      fail-fast: false
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Generate domain manifest
+        env:
+          SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
+        run: |
+          python generate_manifest.py 2>&1 | tee manifest_log.txt
+          echo "Manifest generated"
+          wc -l sampling_manifest.csv
+
+      - name: Run domain scan
+        env:
+          SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
+          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
+        run: |
+          python citadel_production_scan.py --domain ${{ matrix.domain }} 2>&1 | tee scan_${{ matrix.domain }}.log
+        timeout-minutes: 340
+
+      - name: Upload results
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: results-${{ matrix.domain }}
+          path: |
+            citadel_${{ matrix.domain }}_verified.csv
+            citadel_${{ matrix.domain }}_flagged_prod.csv
+            scan_${{ matrix.domain }}.log
+          retention-days: 30
+
+  merge:
+    needs: scan
+    runs-on: ubuntu-latest
+    if: always()
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Download all artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: artifacts/
+
+      - name: Merge results
+        run: |
+          pip install requests
+          # Move artifacts to working dir
+          find artifacts/ -name "*.csv" -exec cp {} . \;
+          find artifacts/ -name "*.log" -exec cp {} . \;
+          # Build deliverables
+          python build_citadel_deliverables.py 2>&1 | tee merge_log.txt
+
+      - name: Upload final deliverables
+        uses: actions/upload-artifact@v4
+        with:
+          name: citadel-x-final
+          path: |
+            citadel_full_results.csv
+            citadel_full_flagged.csv
+            citadel_summary_stats.json
+            paper_table1_draft.csv
+            merge_log.txt
+          retention-days: 90

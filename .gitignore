@@ -1,0 +1,26 @@
+.env
+results/
+*.db
+*.db-wal
+*.db-shm
+__pycache__/
+*.pyc
+
+# Large data (keep locally, not in git)
+citadel_full_results.csv
+citadel_*_verified.csv
+*.jsonl
+
+# Local dirs not needed in cloud
+Nirs data/
+Paper 3 trajectories/
+Deep search results/
+Case studies/
+amia_papers/
+citadel-review-deploy/
+legacy/
+core/
+ALL literature fakes/
+pubmed_local/
+Codex_test/
+Patenting etc/

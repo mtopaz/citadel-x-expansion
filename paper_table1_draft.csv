@@ -1,0 +1,6 @@
+domain,articles_scanned,refs_verified,flagged_refs,confirmed_fake_articles,confirmed_fake_refs,fake_rate_per_10K_refs,avg_fakes_per_affected_paper
+STEM,1000,56526,752,9,109,19.3,12.1
+CS/AI,1000,52761,603,3,60,11.4,20.0
+Social Sciences,1000,66901,760,0,0,0.0,N/A
+Law,962,69598,854,0,0,0.0,N/A
+History/Humanities,818,55680,1403,0,0,0.0,N/A

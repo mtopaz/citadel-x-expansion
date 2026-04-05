@@ -9,7 +9,7 @@ on:
         type: string
       articles_per_cell:
         description: 'Articles per domain-year cell'
-        default: '250'
+        default: '125'
         type: string
 
 jobs:
@@ -73,7 +73,7 @@ jobs:
         id: check
         run: |
           BATCH=${{ inputs.batch || '1' }}
-          MAX_BATCH=10
+          MAX_BATCH=20
           NEXT=$((BATCH + 1))
           if [ "$NEXT" -le "$MAX_BATCH" ]; then
             echo "continue=true" >> $GITHUB_OUTPUT

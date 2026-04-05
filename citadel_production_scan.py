@@ -17,12 +17,40 @@ import json
 import time
 import sys
 import os
+import signal
 import logging
 import argparse
 from pathlib import Path
 from collections import Counter, defaultdict
 
 import requests
+
+# Global state for graceful shutdown on timeout
+_all_rows = []
+_out_results = None
+_out_flagged = None
+_csv_fields = None
+
+def _write_partial_results(signum=None, frame=None):
+    """Write whatever results we have so far (called on SIGTERM/timeout)."""
+    global _all_rows, _out_results, _out_flagged, _csv_fields
+    if not _all_rows or not _out_results or not _csv_fields:
+        return
+    log.info(f"Writing partial results ({len(_all_rows)} rows) before exit...")
+    with open(_out_results, 'w', newline='', encoding='utf-8') as f:
+        w = csv.DictWriter(f, fieldnames=_csv_fields)
+        w.writeheader()
+        w.writerows(_all_rows)
+    flagged = [r for r in _all_rows if r.get('fabrication_flag')]
+    with open(_out_flagged, 'w', newline='', encoding='utf-8') as f:
+        w = csv.DictWriter(f, fieldnames=_csv_fields)
+        w.writeheader()
+        w.writerows(flagged)
+    log.info(f"Partial results saved: {_out_results} ({len(_all_rows)} rows), {_out_flagged} ({len(flagged)} flagged)")
+    if signum:
+        sys.exit(0)
+
+signal.signal(signal.SIGTERM, _write_partial_results)
 
 # Setup
 PROJECT_DIR = Path(__file__).parent
@@ -112,8 +140,15 @@ def run_domain_scan(domain):
     log.info(f"=== {domain.upper()} SCAN: {len(articles)} articles ===")
     thresh = DOMAIN_THRESH.get(domain, "general")
 
+    # Set globals for graceful shutdown
+    global _all_rows, _out_results, _out_flagged, _csv_fields
+    _out_results = out_results
+    _out_flagged = out_flagged
+    _csv_fields = CSV_FIELDS
+
     start = time.time()
     all_rows = []
+    _all_rows = all_rows  # point global to same list
     stats = {'total': 0, 'verified': 0, 'flagged': 0, 'unverifiable': 0}
     article_flags = {}
     by_year = defaultdict(lambda: {'total': 0, 'flagged': 0})

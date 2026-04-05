@@ -3,9 +3,13 @@ name: CITADEL-X Unattended Scan
 on:
   workflow_dispatch:
     inputs:
+      batch:
+        description: 'Batch number (each batch = ~5000 articles)'
+        default: '1'
+        type: string
       articles_per_cell:
         description: 'Articles per domain-year cell'
-        default: '500'
+        default: '250'
         type: string
 
 jobs:
@@ -27,12 +31,18 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Generate domain manifest
+      - name: Generate manifest for this batch
         env:
           SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
         run: |
+          BATCH=${{ inputs.batch || '1' }}
+          SEED=$((42 + BATCH * 1000))
+          APC=${{ inputs.articles_per_cell || '250' }}
+          echo "Batch=$BATCH, Seed=$SEED, ArticlesPerCell=$APC"
+          # Patch seed in generator
+          sed -i "s/^SEED = .*/SEED = $SEED/" generate_manifest.py
+          sed -i "s/^ARTICLES_PER_CELL = .*/ARTICLES_PER_CELL = $APC/" generate_manifest.py
           python generate_manifest.py 2>&1 | tee manifest_log.txt
-          echo "Manifest generated"
           wc -l sampling_manifest.csv
 
       - name: Run domain scan
@@ -41,52 +51,47 @@ jobs:
           OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
         run: |
           python citadel_production_scan.py --domain ${{ matrix.domain }} 2>&1 | tee scan_${{ matrix.domain }}.log
-        timeout-minutes: 340
+        timeout-minutes: 330
 
       - name: Upload results
         uses: actions/upload-artifact@v4
         if: always()
         with:
-          name: results-${{ matrix.domain }}
+          name: batch${{ inputs.batch || '1' }}-${{ matrix.domain }}
           path: |
             citadel_${{ matrix.domain }}_verified.csv
             citadel_${{ matrix.domain }}_flagged_prod.csv
             scan_${{ matrix.domain }}.log
           retention-days: 30
 
-  merge:
+  chain-next:
     needs: scan
     runs-on: ubuntu-latest
-    if: always()
+    if: success()
     steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
-
-      - name: Download all artifacts
-        uses: actions/download-artifact@v4
-        with:
-          path: artifacts/
-
-      - name: Merge results
+      - name: Check if we should continue
+        id: check
         run: |
-          pip install requests
-          # Move artifacts to working dir
-          find artifacts/ -name "*.csv" -exec cp {} . \;
-          find artifacts/ -name "*.log" -exec cp {} . \;
-          # Build deliverables
-          python build_citadel_deliverables.py 2>&1 | tee merge_log.txt
+          BATCH=${{ inputs.batch || '1' }}
+          MAX_BATCH=10
+          NEXT=$((BATCH + 1))
+          if [ "$NEXT" -le "$MAX_BATCH" ]; then
+            echo "continue=true" >> $GITHUB_OUTPUT
+            echo "next_batch=$NEXT" >> $GITHUB_OUTPUT
+            echo "Batch $BATCH complete. Triggering batch $NEXT..."
+          else
+            echo "continue=false" >> $GITHUB_OUTPUT
+            echo "All $MAX_BATCH batches complete. Stopping."
+          fi
 
-      - name: Upload final deliverables
-        uses: actions/upload-artifact@v4
-        with:
-          name: citadel-x-final
-          path: |
-            citadel_full_results.csv
-            citadel_full_flagged.csv
-            citadel_summary_stats.json
-            paper_table1_draft.csv
-            merge_log.txt
-          retention-days: 90
+      - name: Trigger next batch
+        if: steps.check.outputs.continue == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          curl -s -X POST \
+            -H "Authorization: token $GH_TOKEN" \
+            -H "Accept: application/vnd.github.v3+json" \
+            "https://api.github.com/repos/${{ github.repository }}/actions/workflows/citadel_scan.yml/dispatches" \
+            -d "{\"ref\":\"master\",\"inputs\":{\"batch\":\"${{ steps.check.outputs.next_batch }}\",\"articles_per_cell\":\"${{ inputs.articles_per_cell || '250' }}\"}}"
+          echo "Triggered batch ${{ steps.check.outputs.next_batch }}"

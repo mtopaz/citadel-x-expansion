@@ -229,6 +229,19 @@ def run_domain_scan(domain):
             log.info(f"    === {stats['total']} refs, {stats['flagged']} flagged, "
                     f"{len(article_flags)} suspects, {elapsed:.0f}s ===")
 
+        # Periodic save every 50 articles (never lose more than 50 articles of work)
+        if (i + 1) % 50 == 0:
+            log.info(f"    Checkpoint save ({len(all_rows)} rows)...")
+            with open(out_results, 'w', newline='', encoding='utf-8') as f:
+                w = csv.DictWriter(f, fieldnames=CSV_FIELDS)
+                w.writeheader()
+                w.writerows(all_rows)
+            flagged_so_far = [r for r in all_rows if r.get('fabrication_flag')]
+            with open(out_flagged, 'w', newline='', encoding='utf-8') as f:
+                w = csv.DictWriter(f, fieldnames=CSV_FIELDS)
+                w.writeheader()
+                w.writerows(flagged_so_far)
+
     # Write results
     with open(out_results, 'w', newline='', encoding='utf-8') as f:
         w = csv.DictWriter(f, fieldnames=CSV_FIELDS)

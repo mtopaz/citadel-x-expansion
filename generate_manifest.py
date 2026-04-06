@@ -27,7 +27,7 @@ HEADERS = {"User-Agent": "CITADEL/1.0 (mailto:mt3920@cumc.columbia.edu)"}
 PROJECT_DIR = Path(__file__).parent
 OUT_CSV = PROJECT_DIR / "sampling_manifest.csv"
 OUT_FRAME = PROJECT_DIR / "sampling_frame.md"
-SAMPLED_JOURNALS = PROJECT_DIR / "sampled_journals.csv"
+SAMPLED_JOURNALS = PROJECT_DIR / "sampled_journals_v2.csv"
 
 
 def load_sampled_journals():
@@ -35,7 +35,9 @@ def load_sampled_journals():
     domains = defaultdict(list)
     with open(SAMPLED_JOURNALS, encoding='utf-8') as f:
         for row in csv.DictReader(f):
-            domains[row['domain']].append((row['journal'], row['issn'], int(row['tier'])))
+            tier_str = row['tier'].replace('T', '')
+            issn = row['issn'].split(';')[0].strip()  # Take first ISSN if multiple
+            domains[row['domain']].append((row['journal'], issn, int(tier_str)))
     return dict(domains)
 
 

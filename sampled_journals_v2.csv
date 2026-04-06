@@ -1,0 +1,131 @@
+journal,domain,tier,issn,total_dois,article_count_2024plus
+Neurocomputing,cs_ai,T1,0925-2312,25742,7892
+IEEE Transactions on Antennas and Propagation,cs_ai,T1,0018-926X;1558-2221,24604,64
+IEEE Transactions on Information Theory,cs_ai,T1,0018-9448;1557-9654,20073,1174
+Information Sciences,cs_ai,T1,0020-0255,19166,4848
+IEEE Transactions on Communications,cs_ai,T1,0090-6778;1558-0857,17608,888
+Automatica,cs_ai,T1,0005-1098,15499,559
+Applied Soft Computing,cs_ai,T1,1568-4946,13539,4738
+IEEE Transactions on Image Processing,cs_ai,T1,1057-7149;1941-0042,12839,692
+Mechanical Systems and Signal Processing,cs_ai,T1,0888-3270;1096-1216,12780,3936
+IEEE Transactions on Industrial Informatics,cs_ai,T1,1551-3203;1941-0050,9863,3716
+Computer Networks,cs_ai,T1,1389-1286,8920,2439
+Future Generation Computer Systems,cs_ai,T1,0167-739X,8742,2132
+Concurrency and Computation: Practice and Experience,cs_ai,T1,1532-0626;1532-0634,7971,109
+IEEE Transactions on Mobile Computing,cs_ai,T1,1536-1233;1558-0660;2161-9875,7124,2073
+IEEE Transactions on Cybernetics,cs_ai,T1,2168-2267;2168-2275,7052,1120
+Automation in Construction,cs_ai,T2,0926-5805,6681,663
+IEEE Transactions on Information Forensics and Security,cs_ai,T2,1556-6013;1556-6021,6499,3145
+"Circuits, Systems, and Signal Processing",cs_ai,T2,0278-081X;1531-5878,5493,1014
+The Visual Computer,cs_ai,T2,0178-2789;1432-2315,5491,76
+Information and Software Technology,cs_ai,T2,0950-5849,5320,1134
+Wireless Networks,cs_ai,T2,1022-0038;1572-8196,4773,491
+Computational Mechanics,cs_ai,T2,0178-7675;1432-0924,4523,334
+International Journal of Pattern Recognition and Artificial Intelligence,cs_ai,T2,0218-0014;0218-0014;1793-6381,4051,1473
+Neural Computation,cs_ai,T2,0899-7667;1530-888X,3758,149
+PeerJ Computer Science,cs_ai,T2,2376-5992,3618,3510
+Ad Hoc Networks,cs_ai,T2,1570-8705,3524,650
+IEEE Transactions on Network and Service Management,cs_ai,T2,1932-4537;1932-4537;2373-7379,3198,721
+Journal of King Saud University - Computer and Information Sciences,cs_ai,T2,1319-1578;2213-1248,2841,301
+International Journal of Geographical Information Science,cs_ai,T2,1365-8816;1362-3087,2725,321
+Computational Optimization and Applications,cs_ai,T2,0926-6003;1573-2894,2339,231
+Journal of Computational Science,cs_ai,T2,1877-7503,2305,470
+Peer-to-Peer Networking and Applications,cs_ai,T2,1936-6442;1936-6450,2187,100
+Computational Statistics,cs_ai,T2,0943-4062;1613-9658,2016,290
+IEEE Transactions on Cognitive Communications and Networking,cs_ai,T2,2332-7731,1877,755
+Pattern Recognition and Image Analysis,cs_ai,T2,1054-6618;1555-6212,1859,211
+Journal of Computational and Nonlinear Dynamics,cs_ai,T2,1555-1423,1838,225
+Computational Geometry,cs_ai,T2,0925-7721,1807,71
+ACM Transactions on Design Automation of Electronic Systems,cs_ai,T2,1084-4309;1557-7309,1788,320
+IEEE Transactions on Emerging Topics in Computational Intelligence,cs_ai,T2,2471-285X,1649,2111
+IEEE Transactions on Affective Computing,cs_ai,T2,1949-3045;1949-3045;2371-9850,1564,191
+Data Mining and Knowledge Discovery,cs_ai,T3,1384-5810;1573-756X,1341,185
+Machine Learning: Science and Technology,cs_ai,T3,2632-2153,1289,1588
+Theoretical and Computational Fluid Dynamics,cs_ai,T3,0935-4964;1432-2250,1226,76
+Network: Computation in Neural Systems,cs_ai,T3,0954-898X;1361-6536,1206,118
+Sustainable Computing: Informatics and Systems,cs_ai,T3,2210-5379,1149,298
+Complex & Intelligent Systems,cs_ai,T3,,994,994
+Networks and Spatial Economics,cs_ai,T3,1566-113X;1572-9427,863,103
+Foundations of Computational Mathematics,cs_ai,T3,1615-3375;1615-3383,841,78
+Journal of computational fluids engineering,cs_ai,T3,1598-6071;3022-6252,822,70
+Transactions of the Association for Computational Linguistics,cs_ai,T3,2307-387X,814,184
+Artificial Intelligence and Law,cs_ai,T3,0924-8463;1572-8382,698,218
+Machine Learning and Knowledge Extraction,cs_ai,T3,2504-4990,696,766
+International Journal of Artificial Intelligence in Education,cs_ai,T3,1560-4292;1560-4306,691,302
+Journal of Complex Networks,cs_ai,T3,2051-1310;2051-1329,615,90
+Systems and Soft Computing,cs_ai,T3,2772-9419,443,399
+Journal of Intelligence and Knowledge Engineering,cs_ai,T3,2959-0620;2959-0620,231,226
+Journal of Artificial Intelligence and Capsule Networks,cs_ai,T3,2582-2012,211,51
+Robotic Intelligence and Automation,cs_ai,T3,2754-6969;2754-6977,197,240
+Artificial Intelligence in Geosciences,cs_ai,T3,2666-5441,180,208
+Journal of Automation and Intelligence,cs_ai,T3,2949-8554,127,83
+Artificial Intelligence Chemistry,cs_ai,T3,2949-7477,115,160
+IEEE Transactions on Circuits and Systems for Artificial Intelligence,cs_ai,T3,2996-6647,109,57
+The European Journal on Artificial Intelligence,cs_ai,T3,3050-4554;3050-4546,92,136
+Journal of Future Artificial Intelligence and Technologies,cs_ai,T3,3048-3719,81,65
+WIREs Computational Molecular Science,cs_ai,T3,,73,73
+Journal of Applied Physics,stem,T1,0021-8979;1089-7550,151745,12754
+The Journal of Chemical Physics,stem,T1,0021-9606;1089-7690,149808,22691
+IOP Conference Series: Materials Science and Engineering,stem,T1,1757-8981;1757-899X,99061,9084
+Physical Review A,stem,T1,1050-2947;1094-1622;0556-2791;2469-9926;2469-9934,96759,7463
+Journal of Alloys and Compounds,stem,T1,0925-8388,88669,27033
+Chemical Communications,stem,T1,1359-7345;1364-548X,76191,20525
+Materials,stem,T1,1996-1944,55377,26029
+Physics Today,stem,T1,0031-9228;1945-0699,53455,375
+Ceramics International,stem,T1,0272-8842,52373,33628
+Russian Chemical Bulletin,stem,T1,1066-5285;1573-9171,38605,757
+Polymers,stem,T1,2073-4360,31016,7103
+ACS Nano,stem,T1,1936-0851;1936-086X,28201,14353
+Renewable Energy,stem,T1,0960-1481,26250,10318
+Nanotechnology,stem,T1,0957-4484;1361-6528,23831,1298
+Nanomaterials,stem,T1,2079-4991,21940,4434
+The Physics Teacher,stem,T2,0031-921X;1943-4928,17438,1182
+Energy Policy,stem,T2,0301-4215,17024,1153
+Chemistry of Heterocyclic Compounds,stem,T2,0009-3122;1573-8353,16970,139
+International Journal of Latest Technology in Engineering Management & Applied Science,stem,T2,,15424,15424
+Engineering Applications of Artificial Intelligence,stem,T2,0952-1976,13283,46059
+Chinese Chemical Letters,stem,T2,1001-8417,12400,9172
+Glass and Ceramics,stem,T2,0361-7610;1573-8515,12241,189
+Macromolecular Chemistry and Physics,stem,T2,1022-1352;1521-3935,11960,1521
+Polymer Chemistry,stem,T2,1759-9954;1759-9962,11678,1011
+Arabian Journal for Science and Engineering,stem,T2,1319-8025;2191-4281;2193-567X,11036,20964
+Accounts of Chemical Research,stem,T2,0001-4842;1520-4898,9010,659
+TrAC Trends in Analytical Chemistry,stem,T2,0165-9936;0165-9936;0167-2940,8998,1138
+Physical Review Applied,stem,T2,2331-7019,8631,2226
+Journal of Materials in Civil Engineering,stem,T2,0899-1561;1943-5533,8078,9360
+Journal of Engineering for Gas Turbines and Power,stem,T2,0742-4795;1528-8919,7748,4194
+Fibre Chemistry,stem,T2,0015-0541;1573-8493,7353,179
+ACS Biomaterials Science & Engineering,stem,T2,,7032,7032
+Journal of the Brazilian Society of Mechanical Sciences and Engineering,stem,T2,1678-5878;1678-5878;1806-3691,6844,10170
+Precision Engineering,stem,T2,0141-6359,6378,3435
+Journal of Electrical Engineering & Technology,stem,T2,,5850,5850
+Low Temperature Physics,stem,T2,1063-777X;1090-6517,5826,844
+Advances in Civil Engineering,stem,T2,1687-8086;1687-8094,5796,3443
+Computers & Chemical Engineering,stem,T2,,5538,5538
+Chinese Journal of Organic Chemistry,stem,T2,0253-2786,5314,694
+Journal of Solution Chemistry,stem,T2,0095-9782;1572-8927,5301,226
+Advanced Engineering Informatics,stem,T3,1474-0346,4262,12708
+Materials & Design,stem,T3,,3874,3874
+Structural Concrete,stem,T3,1464-4177;1751-7648,3806,997
+Ain Shams Engineering Journal,stem,T3,2090-4479,3795,8982
+IEEJ Transactions on Electrical and Electronic Engineering,stem,T3,1931-4973;1931-4981,3740,2156
+Physics of Metals and Metallography,stem,T3,0031-918X;1555-6190,3524,806
+Russian Journal of Coordination Chemistry,stem,T3,1070-3284;1608-3318,3271,225
+Physics and Chemistry of Liquids,stem,T3,0031-9104;1029-0451,2860,232
+Beilstein Journal of Nanotechnology,stem,T3,2190-4286;2190-4286,2694,321
+Communications Physics,stem,T3,2399-3650,2589,2158
+Glass Physics and Chemistry,stem,T3,1087-6596;1608-313X,2490,349
+Materials Today Energy,stem,T3,2468-6069,2223,741
+Ukrainian Journal of Physics,stem,T3,2071-0186;2071-0194,2152,206
+Physics of Particles and Nuclei,stem,T3,1063-7796;1531-8559,2142,1011
+Bulletin of the Lebedev Physics Institute,stem,T3,1068-3356;1934-838X,2040,962
+"Sustainable Energy, Grids and Networks",stem,T3,2352-4677,1963,991
+Physics of the Dark Universe,stem,T3,2212-6864,1945,1812
+Chemistry Africa,stem,T3,2522-5758;2522-5766,1634,795
+ACS Applied Engineering Materials,stem,T3,2771-9545;2771-9545,1193,5404
+European Journal of Theoretical and Applied Sciences,stem,T3,2786-7447,1176,698
+Radiological Physics and Technology,stem,T3,1865-0333;1865-0341,1036,268
+"Mining, Metallurgy & Exploration",stem,T3,,604,604
+Discover Civil Engineering,stem,T3,2948-1546,452,431
+From Chemistry Towards Technology Step-By-Step,stem,T3,2782-1900,336,130
+Mining Technology: Transactions of the Institutions of Mining and Metallurgy,stem,T3,2572-6668;2572-6676,173,50

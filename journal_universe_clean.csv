@@ -1,0 +1,796 @@
+journal,domain,tier,issn,total_dois,article_count_2024plus,crossref_title
+Expert Systems with Applications,cs_ai,T1,0957-4174;1873-6793,30284,21914,Expert Systems with Applications
+Neurocomputing,cs_ai,T1,0925-2312,25742,7892,Neurocomputing
+IEEE Transactions on Antennas and Propagation,cs_ai,T1,0018-926X;1558-2221,24604,64,IEEE Transactions on Antennas and Propagation
+IEEE Transactions on Automatic Control,cs_ai,T1,0018-9286;1558-2523;2334-3303,23934,876,IEEE Transactions on Automatic Control
+IEEE Transactions on Vehicular Technology,cs_ai,T1,0018-9545;1939-9359,22093,5312,IEEE Transactions on Vehicular Technology
+IEEE Transactions on Information Theory,cs_ai,T1,0018-9448;1557-9654,20073,1174,IEEE Transactions on Information Theory
+Information Sciences,cs_ai,T1,0020-0255,19166,4848,Information Sciences
+IEEE Transactions on Communications,cs_ai,T1,0090-6778;1558-0857,17608,888,IEEE Transactions on Communications
+Automatica,cs_ai,T1,0005-1098,15499,559,Automatica
+Pattern Recognition,cs_ai,T1,0031-3203,14881,7589,Pattern Recognition
+IEEE Transactions on Wireless Communications,cs_ai,T1,1536-1276;1558-2248,14839,4511,IEEE Transactions on Wireless Communications
+IEEE Transactions on Aerospace and Electronic Systems,cs_ai,T1,0018-9251;1557-9603;2371-9877,14226,2986,IEEE Transactions on Aerospace and Electronic Systems
+Computational Materials Science,cs_ai,T1,0927-0256,13984,2245,Computational Materials Science
+IEEE Transactions on Power Systems,cs_ai,T1,0885-8950;1558-0679,13694,1174,IEEE Transactions on Power Systems
+Applied Soft Computing,cs_ai,T1,1568-4946,13539,4738,Applied Soft Computing
+IEEE Transactions on Image Processing,cs_ai,T1,1057-7149;1941-0042,12839,692,IEEE Transactions on Image Processing
+Knowledge-Based Systems,cs_ai,T1,0950-7051,12833,10033,Knowledge-Based Systems
+Mechanical Systems and Signal Processing,cs_ai,T1,0888-3270;1096-1216,12780,3936,Mechanical Systems and Signal Processing
+Neural Computing and Applications,cs_ai,T1,0941-0643;1433-3058,12144,3991,Neural Computing and Applications
+IEEE Transactions on Pattern Analysis and Machine Intelligence,cs_ai,T1,0162-8828;2160-9292;1939-3539,11937,8160,IEEE Transactions on Pattern Analysis and Machine Intelligence
+IEEE Transactions on Intelligent Transportation Systems,cs_ai,T1,1524-9050;1558-0016,11762,7777,IEEE Transactions on Intelligent Transportation Systems
+Fuzzy Sets and Systems,cs_ai,T1,0165-0114,11253,672,Fuzzy Sets and Systems
+Computer Communications,cs_ai,T1,0140-3664;0140-3664,10802,153,Computer Communications
+IEEE Signal Processing Letters,cs_ai,T1,1070-9908;1558-2361,10694,303,IEEE Signal Processing Letters
+IEEE Robotics and Automation Letters,cs_ai,T1,2377-3766,10637,1639,IEEE Robotics and Automation Letters
+IEEE Transactions on Circuits and Systems for Video Technology,cs_ai,T1,1051-8215;1558-2205,10211,5322,IEEE Transactions on Circuits and Systems for Video Technology
+IEEE Transactions on Consumer Electronics,cs_ai,T1,0098-3063;1558-4127,10110,1488,IEEE Transactions on Consumer Electronics
+IEEE Transactions on Industrial Informatics,cs_ai,T1,1551-3203;1941-0050,9863,3716,IEEE Transactions on Industrial Informatics
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems,cs_ai,T1,0278-0070;1937-4151,9738,944,IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+Neural Networks,cs_ai,T1,0893-6080,9687,4231,Neural Networks
+Pattern Recognition Letters,cs_ai,T1,0167-8655,9614,776,Pattern Recognition Letters
+The Journal of Supercomputing,cs_ai,T1,0920-8542;1573-0484,9027,1304,The Journal of Supercomputing
+Computer Networks,cs_ai,T1,1389-1286,8920,2439,Computer Networks
+IEEE Transactions on Neural Networks and Learning Systems,cs_ai,T1,2162-237X;2162-2388,8742,14860,IEEE Transactions on Neural Networks and Learning Systems
+Future Generation Computer Systems,cs_ai,T1,0167-739X,8742,2132,Future Generation Computer Systems
+IEEE Transactions on Circuits and Systems I: Regular Papers,cs_ai,T1,1549-8328;1558-0806,8653,1590,IEEE Transactions on Circuits and Systems I Regular Papers
+Concurrency and Computation: Practice and Experience,cs_ai,T1,1532-0626;1532-0634,7971,109,Concurrency and Computation Practice and Experience
+IEEE Transactions on Multimedia,cs_ai,T1,1520-9210;1941-0077,7685,901,IEEE Transactions on Multimedia
+IEEE Transactions on Visualization and Computer Graphics,cs_ai,T1,1077-2626;1941-0506;2160-9306,7645,158,IEEE Transactions on Visualization and Computer Graphics
+IEEE Transactions on Very Large Scale Integration (VLSI) Systems,cs_ai,T1,1063-8210;1557-9999,7221,683,IEEE Transactions on Very Large Scale Integration (VLSI) Systems
+IEEE Transactions on Mobile Computing,cs_ai,T1,1536-1233;1558-0660;2161-9875,7124,2073,IEEE Transactions on Mobile Computing
+IEEE Transactions on Cybernetics,cs_ai,T1,2168-2267;2168-2275,7052,1120,IEEE Transactions on Cybernetics
+Journal of Systems and Software,cs_ai,T1,0164-1212,6767,1466,Journal of Systems and Software
+"IEEE Transactions on Systems, Man, and Cybernetics: Systems",cs_ai,T1,2168-2216;2168-2232,6712,2300,IEEE Transactions on Systems Man and Cybernetics Systems
+Automation in Construction,cs_ai,T2,0926-5805,6681,663,Automation in Construction
+IEEE Transactions on Dependable and Secure Computing,cs_ai,T2,1545-5971;1941-0018;0361-1434;2160-9209,6622,129,IEEE Transactions on Dependable and Secure Computing
+IEEE Transactions on Smart Grid,cs_ai,T2,1949-3053;1949-3061,6572,113,IEEE Transactions on Smart Grid
+IEEE Transactions on Information Forensics and Security,cs_ai,T2,1556-6013;1556-6021,6499,3145,IEEE Transactions on Information Forensics and Security
+IEEE Transactions on Parallel and Distributed Systems,cs_ai,T2,1045-9219;1558-2183;2161-9883,6417,437,IEEE Transactions on Parallel and Distributed Systems
+Chemometrics and Intelligent Laboratory Systems,cs_ai,T2,0169-7439,6286,462,Chemometrics and Intelligent Laboratory Systems
+IEEE Transactions on Fuzzy Systems,cs_ai,T2,1063-6706;1941-0034,6091,1142,IEEE Transactions on Fuzzy Systems
+Security and Communication Networks,cs_ai,T2,1939-0114;1939-0122,5952,131,Security and Communication Networks
+Cluster Computing,cs_ai,T2,1386-7857;1573-7543,5927,1184,Cluster Computing
+Digital Signal Processing,cs_ai,T2,1051-2004;1095-4333,5570,69,Digital Signal Processing
+IEEE Transactions on Control Systems Technology,cs_ai,T2,1063-6536;1558-0865;2374-0159,5544,475,IEEE Transactions on Control Systems Technology
+"Circuits, Systems, and Signal Processing",cs_ai,T2,0278-081X;1531-5878,5493,1014,Circuits Systems and Signal Processing
+The Visual Computer,cs_ai,T2,0178-2789;1432-2315,5491,76,The Visual Computer
+Information and Software Technology,cs_ai,T2,0950-5849,5320,1134,Information and Software Technology
+"Journal of Circuits, Systems and Computers",cs_ai,T2,0218-1266;1793-6454,5053,995,Journal of Circuits Systems and Computers
+Journal of Ambient Intelligence and Humanized Computing,cs_ai,T2,1868-5137;1868-5145,4960,514,Journal of Ambient Intelligence and Humanized Computing
+Science China Information Sciences,cs_ai,T2,1674-733X;1869-1919,4946,913,Science China Information Sciences
+International Journal of Human–Computer Interaction,cs_ai,T2,1044-7318;1532-7590,4888,2051,International Journal of Human-Computer Interaction
+Artificial Intelligence,cs_ai,T2,0004-3702,4800,742,Artificial Intelligence
+Wireless Networks,cs_ai,T2,1022-0038;1572-8196,4773,491,Wireless Networks
+Computational Mechanics,cs_ai,T2,0178-7675;1432-0924,4523,334,Computational Mechanics
+Algorithms,cs_ai,T2,1999-4893,4485,860,Algorithms
+IEEE Network,cs_ai,T2,0890-8044;1558-156X,4244,148,IEEE Network
+IEEE Transactions on Transportation Electrification,cs_ai,T2,2332-7782,4197,235,IEEE Transactions on Transportation Electrification
+"International Journal of Control, Automation and Systems",cs_ai,T2,1598-6446;2005-4092,4165,629,International Journal of Control Automation and Systems
+International Journal of Pattern Recognition and Artificial Intelligence,cs_ai,T2,0218-0014;0218-0014;1793-6381,4051,1473,International Journal of Pattern Recognition and Artificial Intelligence
+International Journal of Intelligent Systems,cs_ai,T2,0884-8173;1098-111X,4003,347,International Journal of Intelligent Systems
+Neural Computation,cs_ai,T2,0899-7667;1530-888X,3758,149,Neural Computation
+PeerJ Computer Science,cs_ai,T2,2376-5992,3618,3510,PeerJ Computer Science
+Ad Hoc Networks,cs_ai,T2,1570-8705,3524,650,Ad Hoc Networks
+Journal of Open Source Software,cs_ai,T2,2475-9066,3507,1410,The Journal of Open Source Software
+Expert Systems,cs_ai,T2,0266-4720;1468-0394,3375,497,Expert Systems
+Networks,cs_ai,T2,0028-3045;1097-0037,3321,97,Networks
+Neural Processing Letters,cs_ai,T2,1370-4621;1573-773X,3304,373,Neural Processing Letters
+Machine Learning,cs_ai,T2,0885-6125;1573-0565,3203,1078,Machine Learning
+IEEE Transactions on Network and Service Management,cs_ai,T2,1932-4537;1932-4537;2373-7379,3198,721,IEEE Transactions on Network and Service Management
+International Journal of Machine Learning and Cybernetics,cs_ai,T2,1868-8071;1868-808X,3041,2035,International Journal of Machine Learning and Cybernetics
+Artificial Intelligence Review,cs_ai,T2,0269-2821;1573-7462,3036,2365,Artificial Intelligence Review
+Journal of Advanced Computational Intelligence and Intelligent Informatics,cs_ai,T2,1343-0130;1883-8014,2990,668,Journal of Advanced Computational Intelligence and Intelligent Informatics
+Knowledge and Information Systems,cs_ai,T2,0219-1377;0219-3116,2947,690,Knowledge and Information Systems
+International Journal of Computational Intelligence Systems,cs_ai,T2,1875-6891;1875-6883,2940,2379,International Journal of Computational Intelligence Systems
+Mobile Networks and Applications,cs_ai,T2,1383-469X;1572-8153,2891,188,Mobile Networks and Applications
+Journal of King Saud University Computer and Information Sciences,cs_ai,T2,1319-1578;2213-1248,2841,654,Journal of King Saud University - Computer and Information Sciences
+Journal of King Saud University - Computer and Information Sciences,cs_ai,T2,1319-1578;2213-1248,2841,301,Journal of King Saud University - Computer and Information Sciences
+Journal of Computational Electronics,cs_ai,T2,1569-8025;1572-8137,2808,407,Journal of Computational Electronics
+Computational Economics,cs_ai,T2,0927-7099;1572-9974,2806,805,Computational Economics
+IEEE Transactions on Computational Social Systems,cs_ai,T2,2329-924X,2768,3198,IEEE Transactions on Computational Social Systems
+Journal of Computer Assisted Learning,cs_ai,T2,0266-4909;1365-2729,2737,825,Journal of Computer Assisted Learning
+International Journal of Geographical Information Science,cs_ai,T2,1365-8816;1362-3087,2725,321,International Journal of Geographical Information Science
+"International Journal of Numerical Modelling: Electronic Networks, Devices and Fields",cs_ai,T2,0894-3370;1099-1204,2708,267,International Journal of Numerical Modelling Electronic Networks Devices and Fields
+Journal of Computational and Graphical Statistics,cs_ai,T2,1061-8600;1537-2715,2451,343,Journal of Computational and Graphical Statistics
+Advanced Intelligent Systems,cs_ai,T2,2640-4567;2640-4567,2391,841,Advanced Intelligent Systems
+Journal of Optical Communications and Networking,cs_ai,T2,1943-0620;1943-0639,2364,182,Journal of Optical Communications and Networking
+Computational Optimization and Applications,cs_ai,T2,0926-6003;1573-2894,2339,231,Computational Optimization and Applications
+Journal of Computational Science,cs_ai,T2,1877-7503,2305,470,Journal of Computational Science
+Proceedings of the Association for Information Science and Technology,cs_ai,T2,2373-9231;2373-9231,2208,524,Proceedings of the Association for Information Science and Technology
+IET Intelligent Transport Systems,cs_ai,T2,1751-956X;1751-9578,2207,324,IET Intelligent Transport Systems
+Peer-to-Peer Networking and Applications,cs_ai,T2,1936-6442;1936-6450,2187,100,Peer-to-Peer Networking and Applications
+ACM Transactions on Embedded Computing Systems,cs_ai,T2,1539-9087;1558-3465,2128,318,ACM Transactions on Embedded Computing Systems
+Computers,cs_ai,T2,2073-431X,2117,539,Computers
+International Journal of Fuzzy Systems,cs_ai,T2,1562-2479;2199-3211,2103,546,International Journal of Fuzzy Systems
+International Journal of Applied and Computational Mathematics,cs_ai,T2,2349-5103;2199-5796,2089,444,International Journal of Applied and Computational Mathematics
+npj Computational Materials,cs_ai,T2,2057-3960,2074,1306,npj Computational Materials
+Frontiers in Artificial Intelligence,cs_ai,T2,2624-8212,2023,2743,Frontiers in Artificial Intelligence
+Computational Statistics,cs_ai,T2,0943-4062;1613-9658,2016,290,Computational Statistics
+Applied Artificial Intelligence,cs_ai,T2,0883-9514;1087-6545,1966,450,Applied Artificial Intelligence
+International Journal of Neural Systems,cs_ai,T2,0129-0657;1793-6462,1953,169,International Journal of Neural Systems
+Computational Intelligence,cs_ai,T2,0824-7935;1467-8640,1912,436,Computational Intelligence
+IEEE Transactions on Control of Network Systems,cs_ai,T2,2325-5870,1878,498,IEEE Transactions on Control of Network Systems
+IEEE Transactions on Cognitive Communications and Networking,cs_ai,T2,2332-7731,1877,755,IEEE Transactions on Cognitive Communications and Networking
+Information Systems Research,cs_ai,T2,1047-7047;1526-5536,1870,316,Information Systems Research
+Pattern Recognition and Image Analysis,cs_ai,T2,1054-6618;1555-6212,1859,211,Pattern Recognition and Image Analysis
+Advances in Computational Mathematics,cs_ai,T2,1019-7168;1572-9044,1848,199,Advances in Computational Mathematics
+Journal of Computational and Nonlinear Dynamics,cs_ai,T2,1555-1423,1838,225,Journal of Computational and Nonlinear Dynamics
+Applied and Computational Harmonic Analysis,cs_ai,T2,1063-5203;1096-603X,1813,174,Applied and Computational Harmonic Analysis
+Computational Geometry,cs_ai,T2,0925-7721,1807,71,Computational Geometry
+Social Networks,cs_ai,T2,0378-8733,1800,148,Social Networks
+ACM Transactions on Design Automation of Electronic Systems,cs_ai,T2,1084-4309;1557-7309,1788,320,ACM Transactions on Design Automation of Electronic Systems
+Mathematical and Computational Applications,cs_ai,T2,1300-686X;2297-8747,1747,310,Mathematical and Computational Applications
+Annals of Mathematics and Artificial Intelligence,cs_ai,T2,1012-2443;1573-7470,1730,136,Annals of Mathematics and Artificial Intelligence
+International Journal on Artificial Intelligence Tools,cs_ai,T2,0218-2130;1793-6349,1716,190,International Journal on Artificial Intelligence Tools
+International Journal of Computational Methods,cs_ai,T2,0219-8762;1793-6969,1673,179,International Journal of Computational Methods
+IEEE Transactions on Artificial Intelligence,cs_ai,T2,2691-4581,1658,2653,IEEE Transactions on Artificial Intelligence
+IEEE Transactions on Emerging Topics in Computational Intelligence,cs_ai,T2,2471-285X,1649,2111,IEEE Transactions on Emerging Topics in Computational Intelligence
+IEEE Transactions on Circuits and Systems II: Express Briefs,cs_ai,T2,,1627,1627,
+Geo-spatial Information Science,cs_ai,T2,1009-5020;1993-5153,1615,426,Geo-spatial Information Science
+ACM Transactions on Information Systems,cs_ai,T2,1046-8188;1558-2868,1572,359,ACM Transactions on Information Systems
+IEEE Transactions on Affective Computing,cs_ai,T2,1949-3045;1949-3045;2371-9850,1564,191,IEEE Transactions on Affective Computing
+Social Network Analysis and Mining,cs_ai,T2,1869-5450;1869-5469,1556,387,Social Network Analysis and Mining
+Computational Geosciences,cs_ai,T2,1420-0597;1573-1499,1543,129,Computational Geosciences
+IEEE Transactions on Green Communications and Networking,cs_ai,T3,2473-2400,1463,134,IEEE Transactions on Green Communications and Networking
+ACM Transactions on Intelligent Systems and Technology,cs_ai,T3,2157-6904;2157-6912,1452,377,ACM Transactions on Intelligent Systems and Technology
+ACM Transactions on Knowledge Discovery from Data,cs_ai,T3,1556-4681;1556-472X,1437,432,ACM Transactions on Knowledge Discovery from Data
+"Artificial Intelligence for Engineering Design, Analysis and Manufacturing",cs_ai,T3,0890-0604;1469-1760,1392,52,Artificial intelligence for engineering design analysis and manufacturing
+Engineering Applications of Computational Fluid Mechanics,cs_ai,T3,1994-2060;1997-003X,1375,314,Engineering Applications of Computational Fluid Mechanics
+Data Mining and Knowledge Discovery,cs_ai,T3,1384-5810;1573-756X,1341,185,Data Mining and Knowledge Discovery
+IEEE Transactions on Cognitive and Developmental Systems,cs_ai,T3,2379-8920;2379-8939,1334,291,IEEE Transactions on Cognitive and Developmental Systems
+Transactions of the Japanese Society for Artificial Intelligence,cs_ai,T3,1346-0714;1346-8030,1329,158,Transactions of the Japanese Society for Artificial Intelligence
+Machine Learning: Science and Technology,cs_ai,T3,2632-2153,1289,1588,Machine Learning Science and Technology
+ACM Transactions on Asian and Low-Resource Language Information Processing,cs_ai,T3,2375-4699;2375-4702,1282,448,ACM Transactions on Asian and Low-Resource Language Information Processing
+Theoretical and Computational Fluid Dynamics,cs_ai,T3,0935-4964;1432-2250,1226,76,Theoretical and Computational Fluid Dynamics
+"Computers, Materials & Continua",cs_ai,T3,,1220,1220,
+Network: Computation in Neural Systems,cs_ai,T3,0954-898X;1361-6536,1206,118,Network Computation in Neural Systems
+Big Data and Cognitive Computing,cs_ai,T3,2504-2289,1196,653,Big Data and Cognitive Computing
+ACM Transactions on Sensor Networks,cs_ai,T3,1550-4859;1550-4867,1180,238,ACM Transactions on Sensor Networks
+Sustainable Computing: Informatics and Systems,cs_ai,T3,2210-5379,1149,298,Sustainable Computing Informatics and Systems
+Computational Particle Mechanics,cs_ai,T3,2196-4378;2196-4386,1126,528,Computational Particle Mechanics
+IEEE Transactions on Computational Imaging,cs_ai,T3,2573-0436;2333-9403;2334-0118,1114,313,IEEE Transactions on Computational Imaging
+IEEE Transactions on Learning Technologies,cs_ai,T3,1939-1382;1939-1382;2372-0050,1096,491,IEEE Transactions on Learning Technologies
+Discover Artificial Intelligence,cs_ai,T3,2731-0809,1067,2555,Discover Artificial Intelligence
+IEEE Transactions on Big Data,cs_ai,T3,2332-7790,1049,381,IEEE Transactions on Big Data
+Interdisciplinary Sciences: Computational Life Sciences,cs_ai,T3,1913-2751;1867-1462,1040,226,Interdisciplinary Sciences Computational Life Sciences
+Computational Methods and Function Theory,cs_ai,T3,1617-9447;2195-3724,1026,78,Computational Methods and Function Theory
+Digital Communications and Networks,cs_ai,T3,2352-8648,1014,444,Digital Communications and Networks
+Complex & Intelligent Systems,cs_ai,T3,,994,994,
+Nature Computational Science,cs_ai,T3,2662-8457,973,350,Nature Computational Science
+Computational Methods in Applied Mathematics,cs_ai,T3,1609-4840;1609-9389,963,80,Computational Methods in Applied Mathematics
+International Journal of Data and Network Science,cs_ai,T3,2561-8148;2561-8156,943,413,International Journal of Data and Network Science
+Proceedings of the ACM on Management of Data,cs_ai,T3,2836-6573,903,620,Proceedings of the ACM on Management of Data
+Networks and Spatial Economics,cs_ai,T3,1566-113X;1572-9427,863,103,Networks and Spatial Economics
+Optical Memory and Neural Networks,cs_ai,T3,1060-992X;1934-7898,856,201,Optical Memory and Neural Networks
+Networks and Heterogeneous Media,cs_ai,T3,1556-1801;1556-181X,855,137,Networks and Heterogeneous Media
+IEEE Transactions on Signal and Information Processing over Networks,cs_ai,T3,2373-776X,851,224,IEEE Transactions on Signal and Information Processing over Networks
+Foundations of Computational Mathematics,cs_ai,T3,1615-3375;1615-3383,841,78,Foundations of Computational Mathematics
+Journal of the Computational Structural Engineering Institute of Korea,cs_ai,T3,1229-3059;2287-2302,825,87,Journal of the Computational Structural Engineering Institute of Korea
+Journal of computational fluids engineering,cs_ai,T3,1598-6071;3022-6252,822,70,Journal of computational fluids engineering
+Journal of Intelligent & Fuzzy Systems,cs_ai,T3,,819,819,
+Transactions of the Association for Computational Linguistics,cs_ai,T3,2307-387X,814,184,Transactions of the Association for Computational Linguistics
+International Journal of Computational Intelligence and Applications,cs_ai,T3,1469-0268;1757-5885,797,79,International Journal of Computational Intelligence and Applications
+"Technology, Knowledge and Learning",cs_ai,T3,2211-1662;2211-1670,786,438,Technology Knowledge and Learning
+Journal of Sensor and Actuator Networks,cs_ai,T3,2224-2708,779,235,Journal of Sensor and Actuator Networks
+European Journal of Computer Science and Information Technology,cs_ai,T3,2054-0957;2054-0965,754,376,European Journal of Computer Science and Information Technology
+Computational Continuum Mechanics,cs_ai,T3,1999-6691;2782-3709,748,68,Computational Continuum Mechanics
+Machine Learning with Applications,cs_ai,T3,2666-8270,703,731,Machine Learning with Applications
+Artificial Intelligence and Law,cs_ai,T3,0924-8463;1572-8382,698,218,Artificial Intelligence and Law
+Machine Learning and Knowledge Extraction,cs_ai,T3,2504-4990,696,766,Machine Learning and Knowledge Extraction
+International Journal of Artificial Intelligence in Education,cs_ai,T3,1560-4292;1560-4306,691,302,International Journal of Artificial Intelligence in Education
+Computational Statistics & Data Analysis,cs_ai,T3,,622,622,
+Journal of Complex Networks,cs_ai,T3,2051-1310;2051-1329,615,90,Journal of Complex Networks
+Intelligent Systems with Applications,cs_ai,T3,2667-3053,600,344,Intelligent Systems with Applications
+Computers and Education: Artificial Intelligence,cs_ai,T3,2666-920X,585,776,Computers and Education Artificial Intelligence
+Radiology: Artificial Intelligence,cs_ai,T3,2638-6100,578,470,Radiology Artificial Intelligence
+Artificial Intelligence and Robotics Research,cs_ai,T3,2326-3415;2326-3423,575,650,Artificial Intelligence and Robotics Research
+IEEE Transactions on Networking,cs_ai,T3,2998-4157,567,123,IEEE Transactions on Networking
+Computational Visual Media,cs_ai,T3,2096-0433;2096-0662,536,164,Computational Visual Media
+Applied Computational Intelligence and Soft Computing,cs_ai,T3,1687-9724;1687-9732,500,286,Applied Computational Intelligence and Soft Computing
+Journal of Computational Social Science,cs_ai,T3,2432-2717;2432-2725,461,222,Journal of Computational Social Science
+Journal of Machine and Computing,cs_ai,T3,2789-1801;2788-7669,450,351,Journal of Machine and Computing
+Systems and Soft Computing,cs_ai,T3,2772-9419,443,399,Systems and Soft Computing
+Progress in Artificial Intelligence,cs_ai,T3,2192-6352;2192-6360,431,210,Progress in Artificial Intelligence
+Computational Toxicology,cs_ai,T3,2468-1113,404,105,Computational Toxicology
+Big Data Mining and Analytics,cs_ai,T3,2096-0654;2096-0654;2097-406X,381,194,Big Data Mining and Analytics
+IEEE Journal on Multiscale and Multiphysics Computational Techniques,cs_ai,T3,2379-8815,381,73,IEEE Journal on Multiscale and Multiphysics Computational Techniques
+Journal of Intelligent & Robotic Systems,cs_ai,T3,,316,316,
+Journal of Intelligent & Fuzzy Systems: Applications in Engineering and Technology,cs_ai,T3,,299,299,
+Computers in Human Behavior: Artificial Humans,cs_ai,T3,2949-8821,286,245,Computers in Human Behavior Artificial Humans
+Computational Urban Science,cs_ai,T3,2730-6852,257,141,Computational Urban Science
+Journal of Big Data and Computing,cs_ai,T3,2959-0590;2959-0590,244,128,Journal of Big Data and Computing
+Journal of Intelligence and Knowledge Engineering,cs_ai,T3,2959-0620;2959-0620,231,226,Journal of Intelligence and Knowledge Engineering
+Data & Knowledge Engineering,cs_ai,T3,,219,219,
+Journal of Artificial Intelligence and Capsule Networks,cs_ai,T3,2582-2012,211,51,Journal of Artificial Intelligence and Capsule Networks
+Discrete & Computational Geometry,cs_ai,T3,,206,206,
+Robotic Intelligence and Automation,cs_ai,T3,2754-6969;2754-6977,197,240,Robotic Intelligence and Automation
+Artificial Intelligence in Geosciences,cs_ai,T3,2666-5441,180,208,Artificial Intelligence in Geosciences
+Intelligent Data Analysis: An International Journal,cs_ai,T3,,167,167,
+Turkish Computational and Theoretical Chemistry,cs_ai,T3,2587-1722,167,78,Turkish Computational and Theoretical Chemistry
+Journal of Computer Science and Artificial Intelligence,cs_ai,T3,3078-8242;3078-2309,152,292,Journal of Computer Science and Artificial Intelligence
+Journal of Automation and Intelligence,cs_ai,T3,2949-8554,127,83,Journal of Automation and Intelligence
+Artificial Intelligence Chemistry,cs_ai,T3,2949-7477,115,160,Artificial Intelligence Chemistry
+Scientific Journal of Artificial Intelligence and Blockchain Technologies,cs_ai,T3,3049-4389,110,164,Scientific Journal of Artificial Intelligence and Blockchain Technologies
+IEEE Transactions on Circuits and Systems for Artificial Intelligence,cs_ai,T3,2996-6647,109,57,IEEE Transactions on Circuits and Systems for Artificial Intelligence
+The European Journal on Artificial Intelligence,cs_ai,T3,3050-4554;3050-4546,92,136,The European Journal on Artificial Intelligence
+European Journal of Radiology Artificial Intelligence,cs_ai,T3,3050-5771,88,148,European Journal of Radiology Artificial Intelligence
+npj Artificial Intelligence,cs_ai,T3,3005-1460,87,60,npj Artificial Intelligence
+Journal of Future Artificial Intelligence and Technologies,cs_ai,T3,3048-3719,81,65,Journal of Future Artificial Intelligence and Technologies
+WIREs Computational Molecular Science,cs_ai,T3,,73,73,
+Journal of Applied Artificial Intelligence,cs_ai,T3,2709-5908,43,66,Journal of Applied Artificial Intelligence
+International Journal for Computational Civil and Structural Engineering,cs_ai,T3,1524-5845,16,128,International Journal for Computational Civil and Structural Engineering
+Journal of Computational Design and Engineering,cs_ai,T3,2288-4300,6,270,Journal of Computational Design and Engineering
+REST Journal on Data Analytics and Artificial Intelligence,cs_ai,T3,,0,351,REST Journal on Data Analytics and Artificial Intelligence
+Physical Review B,stem,T1,1098-0121;1550-235X;0163-1829;0556-2805;1095-3795;2469-9950;2469-9969,225602,24148,Physical Review B
+Journal of the American Chemical Society,stem,T1,0002-7863;1520-5126,218083,28261,Journal of the American Chemical Society
+Journal of Physics: Conference Series,stem,T1,1742-6588;1742-6596,213059,49616,Journal of Physics Conference Series
+Journal of Applied Physics,stem,T1,0021-8979;1089-7550,151745,12754,Journal of Applied Physics
+The Journal of Chemical Physics,stem,T1,0021-9606;1089-7690,149808,22691,The Journal of Chemical Physics
+Physical Review Letters,stem,T1,0031-9007;1079-7114,142552,14927,Physical Review Letters
+Applied Physics Letters,stem,T1,0003-6951;1077-3118,139708,22193,Applied Physics Letters
+Analytical Chemistry,stem,T1,0003-2700;1520-6882,138385,14825,Analytical Chemistry
+The Astrophysical Journal,stem,T1,0004-637X;1538-4357,132274,9272,The Astrophysical Journal
+Physical Review D,stem,T1,1550-7998;1089-4918;0556-2821;1550-2368;2470-0010;2470-0029,118922,24336,Physical Review D
+The Journal of Organic Chemistry,stem,T1,0022-3263;1520-6904,101595,11709,The Journal of Organic Chemistry
+IOP Conference Series: Materials Science and Engineering,stem,T1,1757-8981;1757-899X,99061,9084,IOP Conference Series Materials Science and Engineering
+The Journal of Physical Chemistry B,stem,T1,1520-6106;1520-5207;0022-3654;1089-5647,97774,2599,The Journal of Physical Chemistry B
+Physical Review A,stem,T1,1050-2947;1094-1622;0556-2791;2469-9926;2469-9934,96759,7463,Physical Review A
+Journal of Alloys and Compounds,stem,T1,0925-8388,88669,27033,Journal of Alloys and Compounds
+Japanese Journal of Applied Physics,stem,T1,0021-4922;1347-4065,83435,3891,Japanese Journal of Applied Physics
+RSC Advances,stem,T1,2046-2069,80824,8078,RSC Advances
+Chemical Communications,stem,T1,1359-7345;1364-548X,76191,20525,Chemical Communications
+Inorganic Chemistry,stem,T1,0020-1669;1520-510X,76116,17365,Inorganic Chemistry
+Chemical Engineering Journal,stem,T1,1385-8947,71730,209338,Chemical Engineering Journal
+Journal of Applied Polymer Science,stem,T1,0021-8995;1097-4628,67682,11627,Journal of Applied Polymer Science
+Chemical Physics Letters,stem,T1,0009-2614,67103,3864,Chemical Physics Letters
+Physics Letters B,stem,T1,0370-2693,66847,4108,Physics Letters B
+Applied Surface Science,stem,T1,0169-4332,66649,24485,Applied Surface Science
+Optics Express,stem,T1,1094-4087,66204,11634,Optics Express
+The Journal of Physical Chemistry C,stem,T1,1932-7447;1932-7455,58204,13025,The Journal of Physical Chemistry C
+International Journal of Hydrogen Energy,stem,T1,0360-3199;0360-3199,57824,29439,International Journal of Hydrogen Energy
+Physical Chemistry Chemical Physics,stem,T1,1463-9076;1463-9084,57254,31504,Physical Chemistry Chemical Physics
+Materials,stem,T1,1996-1944,55377,26029,Materials
+"Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment",stem,T1,0168-9002,55282,4544,Nuclear Instruments and Methods in Physics Research Section A Accelerators Spectrometers Detectors and Associated Equipment
+Key Engineering Materials,stem,T1,1662-9795,54785,6123,Key Engineering Materials
+Physics Today,stem,T1,0031-9228;1945-0699,53455,375,Physics Today
+Journal of Chemical Education,stem,T1,0021-9584;1938-1328,53304,2258,Journal of Chemical Education
+Physics Letters A,stem,T1,0375-9601,53112,3468,Physics Letters A
+Electrochimica Acta,stem,T1,0013-4686,52496,4225,Electrochimica Acta
+Ceramics International,stem,T1,0272-8842,52373,33628,Ceramics International
+Journal of Magnetism and Magnetic Materials,stem,T1,0304-8853,48940,2015,Journal of Magnetism and Magnetic Materials
+Physical Review C,stem,T1,0556-2813;1089-490X;2469-9985;2469-9993,47168,1187,Physical Review C
+Journal of Materials Science,stem,T1,0022-2461;1573-4803,47063,6667,Journal of Materials Science
+ACS Applied Materials & Interfaces,stem,T1,,47013,47013,
+Analytical and Bioanalytical Chemistry,stem,T1,1618-2642;1618-2650,46851,1308,Analytical and Bioanalytical Chemistry
+Journal of High Energy Physics,stem,T1,1126-6708;1029-8479,46024,18063,Journal of High Energy Physics
+Construction and Building Materials,stem,T1,0950-0618,45380,21756,Construction and Building Materials
+Optics Letters,stem,T1,0146-9592;1539-4794,45168,5552,Optics Letters
+Journal of Organometallic Chemistry,stem,T1,0022-328X;0022-328X,44879,754,Journal of Organometallic Chemistry
+Applied Optics,stem,T1,0003-6935;1539-4522,44752,2934,Applied Optics
+Materials Science and Engineering: A,stem,T1,0921-5093,44622,30200,Materials Science and Engineering A
+Advanced Materials,stem,T1,0935-9648;1521-4095,43155,18509,Advanced Materials
+Energy,stem,T1,0360-5442;0360-5442;1751-4223;1751-4231,42799,23382,Energy
+The Journal of Physical Chemistry A,stem,T1,1089-5639;1520-5215,41514,2331,The Journal of Physical Chemistry A
+Journal of Hazardous Materials,stem,T1,0304-3894,41137,16335,Journal of Hazardous Materials
+Materials Letters,stem,T1,0167-577X,40613,6920,Materials Letters
+Journal of Physics: Condensed Matter,stem,T1,0953-8984;1361-648X,40257,2874,Journal of Physics Condensed Matter
+Advanced Functional Materials,stem,T1,1616-301X;1616-3028,39870,30525,Advanced Functional Materials
+Russian Chemical Bulletin,stem,T1,1066-5285;1573-9171,38605,757,Russian Chemical Bulletin
+Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms,stem,T1,0168-583X,38294,1390,Nuclear Instruments and Methods in Physics Research Section B Beam Interactions with Materials and Atoms
+Nuclear Physics A,stem,T1,0375-9474,37746,772,Nuclear Physics A
+Sensors and Actuators B: Chemical,stem,T1,0925-4005,36741,10844,Sensors and Actuators B Chemical
+Journal of Materials Chemistry A,stem,T1,2050-7488;2050-7496,36684,25362,Journal of Materials Chemistry A
+Journal of the American Ceramic Society,stem,T1,0002-7820;1551-2916,36127,359,Journal of the American Ceramic Society
+Journal of Physics D: Applied Physics,stem,T1,0022-3727;1361-6463,35418,4644,Journal of Physics D Applied Physics
+Industrial & Engineering Chemistry Research,stem,T1,,34386,34386,
+Physics of Fluids,stem,T1,1070-6631;1089-7666,34048,44984,Physics of Fluids
+ACS Omega,stem,T1,2470-1343;2470-1343,34007,12998,ACS Omega
+Chemical Engineering Science,stem,T1,0009-2509,33391,32720,Chemical Engineering Science
+ACS Sustainable Chemistry & Engineering,stem,T1,,33324,33324,
+Colloids and Surfaces A: Physicochemical and Engineering Aspects,stem,T1,0927-7757,33136,50722,Colloids and Surfaces A Physicochemical and Engineering Aspects
+Nanoscale,stem,T1,2040-3364;2040-3372,32016,7977,Nanoscale
+Nuclear Physics B,stem,T1,0550-3213;0550-3213,31434,2026,Nuclear Physics B
+Polymers,stem,T1,2073-4360,31016,7103,Polymers
+Applied Thermal Engineering,stem,T1,1359-4311,29920,67712,Applied Thermal Engineering
+New Journal of Chemistry,stem,T1,1144-0546;1369-9261,29675,9332,New Journal of Chemistry
+Journal of Materials Science: Materials in Electronics,stem,T1,0957-4522;1573-482X,29459,11504,Journal of Materials Science Materials in Electronics
+Chemistry Letters,stem,T1,0366-7022;1348-0715,28971,542,Chemistry Letters
+Physics of Plasmas,stem,T1,1070-664X;1089-7674,28334,4134,Physics of Plasmas
+ACS Nano,stem,T1,1936-0851;1936-086X,28201,14353,ACS Nano
+Chemistry of Materials,stem,T1,0897-4756;1520-5002,27926,4403,Chemistry of Materials
+"Engineering, Technology & Applied Science Research",stem,T1,,26991,26991,
+Applied Energy,stem,T1,0306-2619,26852,14244,Applied Energy
+Journal of Mathematical Physics,stem,T1,0022-2488;1089-7658,26535,1934,Journal of Mathematical Physics
+Materials Chemistry and Physics,stem,T1,0254-0584,26340,14738,Materials Chemistry and Physics
+Renewable Energy,stem,T1,0960-1481,26250,10318,Renewable Energy
+Journal of Radioanalytical and Nuclear Chemistry,stem,T1,0236-5731;1588-2780,26188,1538,Journal of Radioanalytical and Nuclear Chemistry
+American Journal of Physics,stem,T1,0002-9505;1943-2909,26079,316,American Journal of Physics
+Canadian Journal of Chemistry,stem,T1,0008-4042;1480-3291,25685,255,Canadian Journal of Chemistry
+Applied Physics A,stem,T1,0947-8396;1432-0630,24624,4542,Applied Physics A
+Nanotechnology,stem,T1,0957-4484;1361-6528,23831,1298,Nanotechnology
+Journal of Materials Chemistry C,stem,T1,2050-7526;2050-7534,23576,13793,Journal of Materials Chemistry C
+Journal of Solid State Chemistry,stem,T1,0022-4596;1095-726X,23419,1326,Journal of Solid State Chemistry
+The European Physical Journal C,stem,T1,1434-6044;1434-6052,23381,327,The European Physical Journal C
+IEEE Transactions on Industrial Electronics,stem,T1,0278-0046;1557-9948;1932-4529,23300,4729,IEEE Transactions on Industrial Electronics
+Microchemical Journal,stem,T1,0026-265X;1095-9149,22668,7480,Microchemical Journal
+European Journal of Organic Chemistry,stem,T1,1434-193X;1099-0690,22538,1540,European Journal of Organic Chemistry
+Engineering Structures,stem,T1,0141-0296,22127,34305,Engineering Structures
+Nanomaterials,stem,T1,2079-4991,21940,4434,Nanomaterials
+Journal of Physics and Chemistry of Solids,stem,T1,0022-3697,21908,5342,Journal of Physics and Chemistry of Solids
+Energy Conversion and Management,stem,T1,0196-8904,21494,3101,Energy Conversion and Management
+Journal of Computational Physics,stem,T1,0021-9991;1090-2716,20879,3676,Journal of Computational Physics
+Acta Materialia,stem,T1,1359-6454,20788,80,Acta Materialia
+Chemical Physics,stem,T1,0301-0104,20372,2454,Chemical Physics
+Journal of Energy Storage,stem,T1,2352-152X,20262,25106,Journal of Energy Storage
+Molecular Physics,stem,T1,0026-8976;1362-3028,20148,1166,Molecular Physics
+Chemical Science,stem,T1,2041-6520;2041-6539,20083,17821,Chemical Science
+International Journal of Quantum Chemistry,stem,T1,0020-7608;1097-461X,19574,354,International Journal of Quantum Chemistry
+Chinese Physics B,stem,T1,1674-1056;2058-3834,19358,3842,Chinese Physics B
+Materials Research Bulletin,stem,T1,0025-5408,19314,57,Materials Research Bulletin
+The Journal of Physical Chemistry Letters,stem,T1,1948-7185;1948-7185,19201,9205,The Journal of Physical Chemistry Letters
+Nuclear Engineering and Design,stem,T1,0029-5493,19140,11004,Nuclear Engineering and Design
+European Journal of Inorganic Chemistry,stem,T1,1434-1948;1099-0682,18995,825,European Journal of Inorganic Chemistry
+Solar Energy,stem,T1,0038-092X,18803,1981,Solar Energy
+Applied Catalysis A: General,stem,T1,0926-860X,18678,975,Applied Catalysis A General
+Chinese Physics Letters,stem,T1,0256-307X;1741-3540,18542,1280,Chinese Physics Letters
+Industrial Crops and Products,stem,T1,0926-6690,18527,4813,Industrial Crops and Products
+Journal of Heterocyclic Chemistry,stem,T1,0022-152X;1943-5193,17734,357,Journal of Heterocyclic Chemistry
+Journal of the European Ceramic Society,stem,T2,0955-2219,17718,636,Journal of the European Ceramic Society
+The Physics Teacher,stem,T2,0031-921X;1943-4928,17438,1182,The Physics Teacher
+Buildings,stem,T2,2075-5309,17194,14254,Buildings
+Corrosion Science,stem,T2,0010-938X,17163,1886,Corrosion Science
+"Journal of Physics B: Atomic, Molecular and Optical Physics",stem,T2,0953-4075;1361-6455,17142,364,Journal of Physics B Atomic Molecular and Optical Physics
+Optical Materials,stem,T2,0925-3467,17064,3187,Optical Materials
+Energy Policy,stem,T2,0301-4215,17024,1153,Energy Policy
+Chemistry of Heterocyclic Compounds,stem,T2,0009-3122;1573-8353,16970,139,Chemistry of Heterocyclic Compounds
+Journal of Materials Research and Technology,stem,T2,2238-7854,16906,13503,Journal of Materials Research and Technology
+ACS Catalysis,stem,T2,2155-5435;2155-5435,16836,7079,ACS Catalysis
+Computer Methods in Applied Mechanics and Engineering,stem,T2,0045-7825,16661,14507,Computer Methods in Applied Mechanics and Engineering
+Inorganic Chemistry Communications,stem,T2,1387-7003,16576,4553,Inorganic Chemistry Communications
+Energy and Buildings,stem,T2,0378-7788,16411,3155,Energy and Buildings
+Russian Physics Journal,stem,T2,1064-8887;1573-9228,16348,1199,Russian Physics Journal
+Fusion Engineering and Design,stem,T2,0920-3796,16318,8226,Fusion Engineering and Design
+Reliability Engineering & System Safety,stem,T2,,16308,16308,
+Journal of Materials Engineering and Performance,stem,T2,1059-9495;1544-1024;5555-1212,16303,32054,Journal of Materials Engineering and Performance
+Renewable and Sustainable Energy Reviews,stem,T2,1364-0321,15989,2615,Renewable and Sustainable Energy Reviews
+Journal of Building Engineering,stem,T2,2352-7102,15877,53952,Journal of Building Engineering
+Materials Science and Engineering: B,stem,T2,0921-5107,15728,17741,Materials Science and Engineering B
+Chemistry of Natural Compounds,stem,T2,0009-3130;1573-8388,15690,673,Chemistry of Natural Compounds
+Journal of Applied Spectroscopy,stem,T2,0021-9037;1573-8647,15438,416,Journal of Applied Spectroscopy
+Engineering Fracture Mechanics,stem,T2,0013-7944,15434,11619,Engineering Fracture Mechanics
+International Journal of Latest Technology in Engineering Management & Applied Science,stem,T2,,15424,15424,
+Canadian Journal of Physics,stem,T2,0008-4204;1208-6045,15421,206,Canadian Journal of Physics
+International Journal for Numerical Methods in Engineering,stem,T2,0029-5981;1097-0207,15321,2132,International Journal for Numerical Methods in Engineering
+Materials Today Communications,stem,T2,2352-4928,15042,12207,Materials Today Communications
+International Journal of Modern Physics B,stem,T2,0217-9792;1793-6578,14993,1150,International Journal of Modern Physics B
+Green Chemistry,stem,T2,1463-9262;1463-9270,14820,2518,Green Chemistry
+New Journal of Physics,stem,T2,1367-2630,14526,2066,New Journal of Physics
+Diamond and Related Materials,stem,T2,0925-9635,14351,2785,Diamond and Related Materials
+ACS Applied Nano Materials,stem,T2,2574-0970;2574-0970,14148,17019,ACS Applied Nano Materials
+Journal of Physics A: Mathematical and Theoretical,stem,T2,1751-8113;1751-8121,14026,2286,Journal of Physics A Mathematical and Theoretical
+Radiation Physics and Chemistry,stem,T2,0969-806X,13903,6704,Radiation Physics and Chemistry
+Computer Physics Communications,stem,T2,0010-4655,13870,1992,Computer Physics Communications
+Annals of Nuclear Energy,stem,T2,0306-4549,13735,1873,Annals of Nuclear Energy
+International Journal of Modern Physics A,stem,T2,0217-751X;0217-751X;1793-656X,13693,1338,International Journal of Modern Physics A
+Journal of Materials Chemistry B,stem,T2,2050-750X;2050-7518,13686,4386,Journal of Materials Chemistry B
+Journal of Engineering Physics and Thermophysics,stem,T2,1062-0125;1573-871X,13669,877,Journal of Engineering Physics and Thermophysics
+International Journal of Mechanical Sciences,stem,T2,0020-7403,13639,2404,International Journal of Mechanical Sciences
+Engineering Applications of Artificial Intelligence,stem,T2,0952-1976,13283,46059,Engineering Applications of Artificial Intelligence
+Nature Nanotechnology,stem,T2,1748-3387;1748-3395;1745-2473;1745-2481,13152,554,Nature Nanotechnology
+Annals of Physics,stem,T2,0003-4916;1096-035X,13076,1328,Annals of Physics
+Journal of Cosmology and Astroparticle Physics,stem,T2,1475-7508;1475-7516,13048,4606,Journal of Cosmology and Astroparticle Physics
+Journal of Structural Chemistry,stem,T2,0022-4766;1573-8779,13036,1003,Journal of Structural Chemistry
+Journal of Electroanalytical Chemistry,stem,T2,0022-0728;0022-0728,13000,1693,Journal of Electroanalytical Chemistry
+Composites Part B: Engineering,stem,T2,1359-8368,12740,12582,Composites Part B Engineering
+Mathematical Methods in the Applied Sciences,stem,T2,0170-4214;1099-1476,12728,2024,Mathematical Methods in the Applied Sciences
+Communications in Mathematical Physics,stem,T2,0010-3616;1432-0916,12546,1444,Communications in Mathematical Physics
+Modern Physics Letters A,stem,T2,0217-7323;0217-7323;1793-6632,12401,1322,Modern Physics Letters A
+Chinese Chemical Letters,stem,T2,1001-8417,12400,9172,Chinese Chemical Letters
+Advanced Energy Materials,stem,T2,1614-6832;1614-6840,12372,5136,Advanced Energy Materials
+Solar Physics,stem,T2,0038-0938;1573-093X,12299,386,Solar Physics
+The Canadian Journal of Chemical Engineering,stem,T2,0008-4034;1939-019X,12294,5772,The Canadian Journal of Chemical Engineering
+Polymer Composites,stem,T2,0272-8397;1548-0569,12285,3780,Polymer Composites
+Glass and Ceramics,stem,T2,0361-7610;1573-8515,12241,189,Glass and Ceramics
+Macromolecular Chemistry and Physics,stem,T2,1022-1352;1521-3935,11960,1521,Macromolecular Chemistry and Physics
+Applied Physics B,stem,T2,0946-2171;1432-0649,11863,986,Applied Physics B
+International Journal of Theoretical Physics,stem,T2,0020-7748;1572-9575,11819,1532,International Journal of Theoretical Physics
+Polymer Chemistry,stem,T2,1759-9954;1759-9962,11678,1011,Polymer Chemistry
+Computers & Industrial Engineering,stem,T2,,11676,11676,
+Journal of Fluorine Chemistry,stem,T2,0022-1139,11620,183,Journal of Fluorine Chemistry
+Journal of Statistical Physics,stem,T2,0022-4715;1572-9613,11579,375,Journal of Statistical Physics
+Journal of Chemical Theory and Computation,stem,T2,1549-9618;1549-9626,11479,2262,Journal of Chemical Theory and Computation
+Materials Characterization,stem,T2,1044-5803,11357,3233,Materials Characterization
+Journal of Low Temperature Physics,stem,T2,0022-2291;1573-7357,11336,359,Journal of Low Temperature Physics
+Pure and Applied Chemistry,stem,T2,0033-4545;1365-3075,11218,360,Pure and Applied Chemistry
+Nano Energy,stem,T2,2211-2855,11159,2557,Nano Energy
+ACS Applied Energy Materials,stem,T2,2574-0962;2574-0962,11091,9895,ACS Applied Energy Materials
+Modern Physics Letters B,stem,T2,0217-9849;0217-9849;1793-6640,11067,1584,Modern Physics Letters B
+Journal of Structural Engineering,stem,T2,0733-9445;1943-541X,11043,3315,Journal of Structural Engineering
+Arabian Journal for Science and Engineering,stem,T2,1319-8025;2191-4281;2193-567X,11036,20964,Arabian Journal for Science and Engineering
+Russian Journal of General Chemistry,stem,T2,1070-3632;1608-3350,10915,909,Russian Journal of General Chemistry
+International Journal of Energy Research,stem,T2,0363-907X;1099-114X,10786,898,International Journal of Energy Research
+Crystals,stem,T2,2073-4352,10665,57,Crystals
+Journal of Computational Chemistry,stem,T2,0192-8651;1096-987X,10604,559,Journal of Computational Chemistry
+Journal of Applied Crystallography,stem,T2,0021-8898;1600-5767,10551,429,Journal of Applied Crystallography
+Nuclear Science and Engineering,stem,T2,0029-5639;1943-748X,10495,1518,Nuclear Science and Engineering
+Physics of the Solid State,stem,T2,1063-7834;1090-6460,10427,242,Physics of the Solid State
+Advanced Engineering Materials,stem,T2,1438-1656;1527-2648,10400,15558,Advanced Engineering Materials
+Journal of Mechanical Science and Technology,stem,T2,1738-494X;1976-3824,10391,1452,Journal of Mechanical Science and Technology
+Communications in Theoretical Physics,stem,T2,0253-6102;1572-9494,10387,1076,Communications in Theoretical Physics
+Minerals Engineering,stem,T2,0892-6875,10355,8822,Minerals Engineering
+Chinese Journal of Chemistry,stem,T2,1001-604X;1614-7065,10333,866,Chinese Journal of Chemistry
+Asian Journal of Chemistry,stem,T2,0970-7077;0975-427X,10316,371,Asian Journal of Chemistry
+Results in Engineering,stem,T2,2590-1230,10273,51588,Results in Engineering
+Engineering Failure Analysis,stem,T2,1350-6307;1350-6307,10220,15987,Engineering Failure Analysis
+Coordination Chemistry Reviews,stem,T2,0010-8545;0010-8545,10197,1940,Coordination Chemistry Reviews
+Advanced Optical Materials,stem,T2,2195-1071;2195-1071,10166,2748,Advanced Optical Materials
+Nano Letters,stem,T2,,10081,10081,
+Journal of Water Process Engineering,stem,T2,2214-7144,9911,36979,Journal of Water Process Engineering
+Journal of Geophysical Research: Space Physics,stem,T2,2169-9380;2169-9402,9840,2976,Journal of Geophysical Research Space Physics
+Materials Science in Semiconductor Processing,stem,T2,1369-8001,9834,4840,Materials Science in Semiconductor Processing
+Physical Review Research,stem,T2,2643-1564,9801,841,Physical Review Research
+Composites Part A: Applied Science and Manufacturing,stem,T2,1359-835X,9699,1689,Composites Part A Applied Science and Manufacturing
+Applied Organometallic Chemistry,stem,T2,0268-2605;1099-0739,9627,2370,Applied Organometallic Chemistry
+Plasma Physics and Controlled Fusion,stem,T2,0741-3335;1361-6587,9604,1506,Plasma Physics and Controlled Fusion
+Chemistry and Technology of Fuels and Oils,stem,T2,0009-3092;1573-8310,9492,392,Chemistry and Technology of Fuels and Oils
+Bioorganic Chemistry,stem,T2,0045-2068;1090-2120,9442,2581,Bioorganic Chemistry
+"Journal of Synthetic Organic Chemistry, Japan",stem,T2,0037-9980;1883-6526,9378,216,Journal of Synthetic Organic Chemistry Japan
+Control Engineering Practice,stem,T2,0967-0661,9371,5910,Control Engineering Practice
+"Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science",stem,T2,0954-4062;2041-2983,9356,8148,Proceedings of the Institution of Mechanical Engineers Part C Journal of Mechanical Engineering Science
+Chemical Engineering Research and Design,stem,T2,0263-8762;0263-8762;1744-3563,9335,8472,Chemical Engineering Research and Design
+Energy Reports,stem,T2,2352-4847,9277,2039,Energy Reports
+"Highlights in Science, Engineering and Technology",stem,T2,2791-0210;3080-1761,9197,8366,Highlights in Science Engineering and Technology
+Journal of Applied Mechanics and Technical Physics,stem,T2,0021-8944;1573-8620,9177,237,Journal of Applied Mechanics and Technical Physics
+Chemical Society Reviews,stem,T2,0306-0012;1460-4744,9143,718,Chemical Society Reviews
+Accounts of Chemical Research,stem,T2,0001-4842;1520-4898,9010,659,Accounts of Chemical Research
+TrAC Trends in Analytical Chemistry,stem,T2,0165-9936;0165-9936;0167-2940,8998,1138,TrAC Trends in Analytical Chemistry
+Journal of Industrial and Engineering Chemistry,stem,T2,1226-086X,8900,12826,Journal of Industrial and Engineering Chemistry
+Pure and Applied Geophysics,stem,T2,0033-4533;1420-9136;0033-4553,8794,542,Pure and Applied Geophysics
+Technical Physics Letters,stem,T2,1063-7850;1090-6533,8748,136,Technical Physics Letters
+Powder Metallurgy and Metal Ceramics,stem,T2,1068-1302;1573-9066,8664,236,Powder Metallurgy and Metal Ceramics
+Surfaces and Interfaces,stem,T2,2468-0230,8656,5311,Surfaces and Interfaces
+Physical Review Applied,stem,T2,2331-7019,8631,2226,Physical Review Applied
+Theoretical and Mathematical Physics,stem,T2,0040-5779;1573-9333,8596,315,Theoretical and Mathematical Physics
+Journal of Coordination Chemistry,stem,T2,0095-8972;1029-0389,8588,356,Journal of Coordination Chemistry
+Energy Economics,stem,T2,0140-9883,8564,1823,Energy Economics
+Russian Journal of Physical Chemistry A,stem,T2,0036-0244;1531-863X,8509,854,Russian Journal of Physical Chemistry A
+Journal of Wind Engineering and Industrial Aerodynamics,stem,T2,0167-6105,8471,2341,Journal of Wind Engineering and Industrial Aerodynamics
+Journal of Physics G: Nuclear and Particle Physics,stem,T2,0954-3899;1361-6471,8460,262,Journal of Physics G Nuclear and Particle Physics
+Magnetic Resonance in Chemistry,stem,T2,0749-1581;1097-458X,8452,195,Magnetic Resonance in Chemistry
+Russian Journal of Applied Chemistry,stem,T2,1070-4272;1608-3296,8266,161,Russian Journal of Applied Chemistry
+Technical Physics,stem,T2,1063-7842;1090-6525,8261,942,Technical Physics
+Frontiers in Chemistry,stem,T2,2296-2646,8239,1099,Frontiers in Chemistry
+Journal of Applied Electrochemistry,stem,T2,0021-891X;1572-8838,8210,424,Journal of Applied Electrochemistry
+Optics and Lasers in Engineering,stem,T2,0143-8166,8209,9948,Optics and Lasers in Engineering
+Physics Education,stem,T2,0031-9120;1361-6552,8196,1116,Physics Education
+Russian Journal of Organic Chemistry,stem,T2,1070-4280;1608-3393,8111,633,Russian Journal of Organic Chemistry
+Journal of Materials in Civil Engineering,stem,T2,0899-1561;1943-5533,8078,9360,Journal of Materials in Civil Engineering
+Theoretical Chemistry Accounts,stem,T2,1432-881X;1432-2234,8077,195,Theoretical Chemistry Accounts
+Energy & Fuels,stem,T2,,8073,8073,
+Journal of the Japan Society of Powder and Powder Metallurgy,stem,T2,0532-8799;1880-9014,8051,403,Journal of the Japan Society of Powder and Powder Metallurgy
+Results in Physics,stem,T2,2211-3797,7999,2706,Results in Physics
+Case Studies in Thermal Engineering,stem,T2,2214-157X,7961,24966,Case Studies in Thermal Engineering
+Bioconjugate Chemistry,stem,T2,1043-1802;1520-4812,7920,483,Bioconjugate Chemistry
+Electrical Engineering,stem,T2,0948-7921;1432-0487;0003-9039,7804,8400,Electrical Engineering
+Korean Journal of Chemical Engineering,stem,T2,0256-1115;1975-7220,7760,3444,Korean Journal of Chemical Engineering
+IEEE Transactions on Knowledge and Data Engineering,stem,T2,1041-4347;1558-2191;2326-3865,7756,7776,IEEE Transactions on Knowledge and Data Engineering
+Journal of Engineering for Gas Turbines and Power,stem,T2,0742-4795;1528-8919,7748,4194,Journal of Engineering for Gas Turbines and Power
+Journal of the Mechanics and Physics of Solids,stem,T2,0022-5096,7504,1766,Journal of the Mechanics and Physics of Solids
+Bulletin of the Russian Academy of Sciences: Physics,stem,T2,1062-8738;1934-9432,7426,1962,Bulletin of the Russian Academy of Sciences Physics
+Organic Chemistry Frontiers,stem,T2,2052-4110;2052-4129,7379,1746,Organic Chemistry Frontiers
+Fibre Chemistry,stem,T2,0015-0541;1573-8493,7353,179,Fibre Chemistry
+Nature Physics,stem,T2,1745-2473;1745-2481;1476-4636,7286,1646,Nature Physics
+Research on Chemical Intermediates,stem,T2,0922-6168;1568-5675,7251,773,Research on Chemical Intermediates
+ACS Applied Polymer Materials,stem,T2,2637-6105;2637-6105,7239,9963,ACS Applied Polymer Materials
+Applied Geochemistry,stem,T2,0883-2927,7096,619,Applied Geochemistry
+Alexandria Engineering Journal,stem,T2,1110-0168,7070,14832,Alexandria Engineering Journal
+Polymer Engineering & Science,stem,T2,,7032,7032,
+ACS Biomaterials Science & Engineering,stem,T2,,7032,7032,
+Chemical Engineering and Processing - Process Intensification,stem,T2,0255-2701,6995,5632,Chemical Engineering and Processing - Process Intensification
+Journal of Vibration Engineering & Technologies,stem,T2,,6942,6942,
+Applied Physics Express,stem,T2,1882-0778;1882-0786,6856,374,Applied Physics Express
+Journal of the Brazilian Society of Mechanical Sciences and Engineering,stem,T2,1678-5878;1678-5878;1806-3691,6844,10170,Journal of the Brazilian Society of Mechanical Sciences and Engineering
+Physics of Atomic Nuclei,stem,T2,1063-7788;1562-692X,6787,1432,Physics of Atomic Nuclei
+Advances in Mechanical Engineering,stem,T2,1687-8132;1687-8140,6768,3325,Advances in Mechanical Engineering
+Engineering Analysis with Boundary Elements,stem,T2,0955-7997,6766,5820,Engineering Analysis with Boundary Elements
+Biochemical Engineering Journal,stem,T2,1369-703X,6757,4948,Biochemical Engineering Journal
+Procedia Structural Integrity,stem,T2,2452-3216,6723,2174,Procedia Structural Integrity
+Current Applied Physics,stem,T2,1567-1739,6630,941,Current Applied Physics
+Frontiers in Energy Research,stem,T2,2296-598X,6622,1448,Frontiers in Energy Research
+Progress in Nuclear Energy,stem,T2,0149-1970,6583,1157,Progress in Nuclear Energy
+Biophysical Chemistry,stem,T2,0301-4622,6420,265,Biophysical Chemistry
+Journal of the Taiwan Institute of Chemical Engineers,stem,T2,1876-1070,6395,1262,Journal of the Taiwan Institute of Chemical Engineers
+Rock Mechanics and Rock Engineering,stem,T2,0723-2632;1434-453X,6385,10350,Rock Mechanics and Rock Engineering
+Precision Engineering,stem,T2,0141-6359,6378,3435,Precision Engineering
+Archive of Applied Mechanics,stem,T2,0939-1533;1432-0681,6309,528,Archive of Applied Mechanics
+Chemical Papers,stem,T2,0366-6352;1336-9075;2585-7290,6267,1505,Chemical Papers
+International Journal of Impact Engineering,stem,T2,0734-743X,6216,4176,International Journal of Impact Engineering
+Inorganic Chemistry Frontiers,stem,T2,2052-1545;2052-1553,6129,1751,Inorganic Chemistry Frontiers
+Arabian Journal of Chemistry,stem,T2,1878-5352;1878-5379,6065,959,Arabian Journal of Chemistry
+Transition Metal Chemistry,stem,T2,0340-4285;1572-901X;0304-4285,6060,150,Transition Metal Chemistry
+IEEE Transactions on Automation Science and Engineering,stem,T2,1545-5955;1558-3783,6031,24000,IEEE Transactions on Automation Science and Engineering
+Physics Reports,stem,T2,0370-1573,6006,125,Physics Reports
+Case Studies in Construction Materials,stem,T2,2214-5095,6005,3889,Case Studies in Construction Materials
+IEEE Transactions on Engineering Management,stem,T2,0018-9391;1558-0040,5975,9054,IEEE Transactions on Engineering Management
+IEEE Transactions on Software Engineering,stem,T2,0098-5589;1939-3520;2326-3881,5866,461,IEEE Transactions on Software Engineering
+Journal of Electrical Engineering & Technology,stem,T2,,5850,5850,
+Low Temperature Physics,stem,T2,1063-777X;1090-6517,5826,844,Low Temperature Physics
+Optics & Laser Technology,stem,T2,,5824,5824,
+Computational and Theoretical Chemistry,stem,T2,2210-271X,5823,1152,Computational and Theoretical Chemistry
+European Journal of Physics,stem,T2,0143-0807;1361-6404,5800,814,European Journal of Physics
+Advances in Civil Engineering,stem,T2,1687-8086;1687-8094,5796,3443,Advances in Civil Engineering
+KSCE Journal of Civil Engineering,stem,T2,1226-7988;1976-3808,5793,5562,KSCE Journal of Civil Engineering
+Journal of Analytical Chemistry,stem,T2,1061-9348;1608-3199,5782,461,Journal of Analytical Chemistry
+Journal of Energy Chemistry,stem,T2,2095-4956,5759,4200,Journal of Energy Chemistry
+Journal of Plasma Physics,stem,T2,0022-3778;1469-7807,5718,339,Journal of Plasma Physics
+"Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering",stem,T2,0954-4070;2041-2991,5711,6720,Proceedings of the Institution of Mechanical Engineers Part D Journal of Automobile Engineering
+Journal of Chemistry,stem,T2,2090-9063;2090-9071,5666,242,Journal of Chemistry
+Russian Journal of Inorganic Chemistry,stem,T2,0036-0236;1531-8613,5626,524,Russian Journal of Inorganic Chemistry
+Frontiers in Physics,stem,T2,2296-424X,5615,2100,Frontiers in Physics
+International Journal of Refractory Metals and Hard Materials,stem,T2,0263-4368,5571,50,International Journal of Refractory Metals and Hard Materials
+Structural and Multidisciplinary Optimization,stem,T2,1615-147X;1615-1488,5543,562,Structural and Multidisciplinary Optimization
+Computers & Chemical Engineering,stem,T2,,5538,5538,
+ACS Applied Bio Materials,stem,T2,2576-6422;2576-6422,5514,1746,ACS Applied Bio Materials
+ACS Energy Letters,stem,T2,2380-8195;2380-8195,5494,1656,ACS Energy Letters
+Computer Modeling in Engineering & Sciences,stem,T2,,5478,5478,
+Journal of Geometry and Physics,stem,T2,0393-0440,5478,1130,Journal of Geometry and Physics
+Theoretical and Applied Fracture Mechanics,stem,T2,0167-8442,5410,1233,Theoretical and Applied Fracture Mechanics
+International Journal of Modern Physics D,stem,T2,0218-2718;0218-2718;1793-6594,5409,300,International Journal of Modern Physics D
+Journal of Construction Engineering and Management,stem,T2,0733-9364;1943-7862,5393,3405,Journal of Construction Engineering and Management
+Journal of Materials Science & Technology,stem,T2,,5375,5375,
+Quality and Reliability Engineering International,stem,T2,0748-8017;1099-1638,5349,1473,Quality and Reliability Engineering International
+Energy Science & Engineering,stem,T2,,5328,5328,
+Infrared and Laser Engineering,stem,T2,1007-2276,5318,4170,Infrared and Laser Engineering
+Chinese Journal of Organic Chemistry,stem,T2,0253-2786,5314,694,Chinese Journal of Organic Chemistry
+Journal of Solution Chemistry,stem,T2,0095-9782;1572-8927,5301,226,Journal of Solution Chemistry
+Chinese Journal of Chemical Engineering,stem,T2,1004-9541,5299,5172,Chinese Journal of Chemical Engineering
+Russian Engineering Research,stem,T2,1068-798X;1934-8088,5294,4734,Russian Engineering Research
+Journal of Physical Organic Chemistry,stem,T2,0894-3230;1099-1395,5277,122,Journal of Physical Organic Chemistry
+Journal of Chemical & Engineering Data,stem,T2,,5268,5268,
+ACS Applied Electronic Materials,stem,T2,2637-6113;2637-6113,5222,4441,ACS Applied Electronic Materials
+Laser Physics,stem,T2,1054-660X;1555-6611,5199,261,Laser Physics
+Science China Chemistry,stem,T2,1674-7291;1869-1870,5197,1393,Science China Chemistry
+Journal of Applied Geophysics,stem,T2,0926-9851,5176,757,Journal of Applied Geophysics
+International Journal of Modern Physics C,stem,T2,0129-1831;0129-1831;1793-6586,5160,1024,International Journal of Modern Physics C
+Energy Storage Materials,stem,T2,2405-8297,5116,3965,Energy Storage Materials
+"Engineering, Construction and Architectural Management",stem,T2,,4985,4985,
+Foundations of Physics,stem,T2,0015-9018;1572-9516,4980,169,Foundations of Physics
+Nature Chemistry,stem,T2,1755-4330;1755-4349,4961,678,Nature Chemistry
+Nuclear Engineering and Technology,stem,T2,1738-5733;2234-358X,4909,10020,Nuclear Engineering and Technology
+Chinese Physics C,stem,T2,1674-1137;2058-6132,4827,1536,Chinese Physics C
+Energy Technology,stem,T2,2194-4288;2194-4296,4765,1036,Energy Technology
+Letters in Mathematical Physics,stem,T2,0377-9017;1573-0530,4756,316,Letters in Mathematical Physics
+Structural Chemistry,stem,T2,1040-0400;1572-9001,4734,490,Structural Chemistry
+Engineering Research Express,stem,T2,2631-8695,4729,21066,Engineering Research Express
+Biosystems Engineering,stem,T2,1537-5110;1537-5129,4616,954,Biosystems Engineering
+Journal of Inclusion Phenomena and Macrocyclic Chemistry,stem,T3,1388-3127;1573-1111,4558,117,Journal of Inclusion Phenomena and Macrocyclic Chemistry
+Sustainable Energy Technologies and Assessments,stem,T3,2213-1388,4541,1165,Sustainable Energy Technologies and Assessments
+Indian Journal of Physics,stem,T3,0019-5480;0974-9845;0973-1458,4524,1918,Indian Journal of Physics
+Asian Journal of Organic Chemistry,stem,T3,2193-5807;2193-5815,4515,985,Asian Journal of Organic Chemistry
+Laser Physics Letters,stem,T3,1612-2011;1612-202X,4481,345,Laser Physics Letters
+Thermal Science and Engineering Progress,stem,T3,2451-9049,4407,18912,Thermal Science and Engineering Progress
+Fatigue & Fracture of Engineering Materials & Structures,stem,T3,,4364,4364,
+Chemistry – A European Journal,stem,T3,,4323,4323,
+International Journal of Applied Ceramic Technology,stem,T3,1546-542X;1744-7402,4309,863,International Journal of Applied Ceramic Technology
+Contributions to Plasma Physics,stem,T3,0863-1042;1521-3986,4303,210,Contributions to Plasma Physics
+Beilstein Journal of Organic Chemistry,stem,T3,1860-5397;1860-5397,4280,523,Beilstein Journal of Organic Chemistry
+Advanced Engineering Informatics,stem,T3,1474-0346,4262,12708,Advanced Engineering Informatics
+Russian Metallurgy (Metally),stem,T3,0036-0295;1555-6255,4255,588,Russian Metallurgy (Metally)
+Physics-Uspekhi,stem,T3,1063-7869;1468-4780,4249,116,Physics-Uspekhi
+Brazilian Journal of Physics,stem,T3,0103-9733;0103-9733;1678-4448,4125,1270,Brazilian Journal of Physics
+International Journal of Modern Physics E,stem,T3,0218-3013;0218-3013;1793-6608,4095,263,International Journal of Modern Physics E
+International Journal of Geometric Methods in Modern Physics,stem,T3,0219-8878;1793-6977,3984,1144,International Journal of Geometric Methods in Modern Physics
+Coastal Engineering,stem,T3,0378-3839,3966,417,Coastal Engineering
+Current Organic Chemistry,stem,T3,1385-2728,3915,219,Current Organic Chemistry
+Oriental Journal Of Chemistry,stem,T3,0970-020X;2231-5039,3891,492,Oriental Journal Of Chemistry
+Materials & Design,stem,T3,,3874,3874,
+Chinese Journal of Mechanical Engineering,stem,T3,1000-9345;2192-8258,3836,3170,Chinese Journal of Mechanical Engineering
+Materials Chemistry Frontiers,stem,T3,2052-1537,3815,633,Materials Chemistry Frontiers
+Structural Concrete,stem,T3,1464-4177;1751-7648,3806,997,Structural Concrete
+Ain Shams Engineering Journal,stem,T3,2090-4479,3795,8982,Ain Shams Engineering Journal
+Journal of Mathematical Chemistry,stem,T3,0259-9791;1572-8897,3765,196,Journal of Mathematical Chemistry
+IEEJ Transactions on Electrical and Electronic Engineering,stem,T3,1931-4973;1931-4981,3740,2156,IEEJ Transactions on Electrical and Electronic Engineering
+International Journal of Precision Engineering and Manufacturing,stem,T3,1229-8557;2005-4602;2234-7593,3738,1452,International Journal of Precision Engineering and Manufacturing
+Reaction Chemistry & Engineering,stem,T3,,3729,3729,
+IEEE Transactions on Nanotechnology,stem,T3,1536-125X;1941-0085,3545,206,IEEE Transactions on Nanotechnology
+Materials Today Chemistry,stem,T3,2468-5194,3527,1733,Materials Today Chemistry
+Physics of Metals and Metallography,stem,T3,0031-918X;1555-6190,3524,806,The Physics of Metals and Metallography
+Computational Mathematics and Mathematical Physics,stem,T3,0965-5425;1555-6662,3490,898,Computational Mathematics and Mathematical Physics
+Theoretical Foundations of Chemical Engineering,stem,T3,0040-5795;1608-3431,3490,427,Theoretical Foundations of Chemical Engineering
+Chinese Journal of Physics,stem,T3,0577-9073,3478,2428,Chinese Journal of Physics
+Advances in Structural Engineering,stem,T3,1369-4332;2048-4011,3478,474,Advances in Structural Engineering
+"International Journal of Scientific Research in Computer Science, Engineering and Information Technology",stem,T3,2456-3307,3375,7182,International Journal of Scientific Research in Computer Science Engineering and Information Technology
+Plasma Physics Reports,stem,T3,1063-780X;1562-6938,3318,295,Plasma Physics Reports
+Journal of Computational Methods in Sciences and Engineering,stem,T3,1472-7978;1875-8983,3281,8382,Journal of Computational Methods in Sciences and Engineering
+Russian Journal of Coordination Chemistry,stem,T3,1070-3284;1608-3318,3271,225,Russian Journal of Coordination Chemistry
+Results in Chemistry,stem,T3,2211-7156,3255,2014,Results in Chemistry
+Computer-Aided Civil and Infrastructure Engineering,stem,T3,1093-9687;1467-8667,3218,2176,Computer-Aided Civil and Infrastructure Engineering
+"Proceedings of the Institution of Mechanical Engineers, Part E: Journal of Process Mechanical Engineering",stem,T3,0954-4089;2041-3009,3204,5014,Proceedings of the Institution of Mechanical Engineers Part E Journal of Process Mechanical Engineering
+Russian Journal of Physical Chemistry B,stem,T3,1990-7931;1990-7923,3198,400,Russian Journal of Physical Chemistry B
+Russian Journal of Bioorganic Chemistry,stem,T3,1068-1620;1573-9163;1608-330X,3152,527,Russian Journal of Bioorganic Chemistry
+International Journal of System Assurance Engineering and Management,stem,T3,0975-6809;0976-4348,3143,6102,International Journal of Systems Assurance Engineering and Management
+Applied Materials Today,stem,T3,2352-9407,3131,1158,Applied Materials Today
+Engineering Computations,stem,T3,0264-4401;0264-4401;1758-7077,3129,414,Engineering Computations
+"International Journal of Minerals, Metallurgy and Materials",stem,T3,1674-4799;1869-103X,3095,558,International Journal of Minerals Metallurgy and Materials
+Powder Metallurgy,stem,T3,0032-5899;1743-2901,3052,91,Powder Metallurgy
+Letters in Organic Chemistry,stem,T3,1570-1786,3040,194,Letters in Organic Chemistry
+Materials Today Bio,stem,T3,2590-0064,3031,2121,Materials Today Bio
+International Journal of Pavement Engineering,stem,T3,1029-8436;1477-268X,2955,3293,International Journal of Pavement Engineering
+Physics of Particles and Nuclei Letters,stem,T3,1547-4771;1531-8567,2948,970,Physics of Particles and Nuclei Letters
+Polymer,stem,T3,,2860,2860,
+Physics and Chemistry of Liquids,stem,T3,0031-9104;1029-0451,2860,232,Physics and Chemistry of Liquids
+Geoenergy Science and Engineering,stem,T3,2949-8910,2849,10554,Geoenergy Science and Engineering
+Journal of Applied Mathematics and Physics,stem,T3,2327-4352;2327-4379,2842,1154,Journal of Applied Mathematics and Physics
+IEEE Transactions on Network Science and Engineering,stem,T3,2327-4697;2327-4697;2334-329X,2834,7788,IEEE Transactions on Network Science and Engineering
+Journal of Asian Architecture and Building Engineering,stem,T3,1346-7581;1347-2852,2823,5430,Journal of Asian Architecture and Building Engineering
+Chemistry & Biodiversity,stem,T3,,2789,2789,
+Infrared Physics & Technology,stem,T3,,2782,2782,
+Open Chemistry,stem,T3,2391-5420,2751,257,Open Chemistry
+Astroparticle Physics,stem,T3,0927-6505,2744,140,Astroparticle Physics
+Inorganic Materials: Applied Research,stem,T3,2075-1133;2075-115X,2722,562,Inorganic Materials Applied Research
+Discover Applied Sciences,stem,T3,3004-9261,2709,2672,Discover Applied Sciences
+Journal of Rock Mechanics and Geotechnical Engineering,stem,T3,1674-7755,2698,8184,Journal of Rock Mechanics and Geotechnical Engineering
+Beilstein Journal of Nanotechnology,stem,T3,2190-4286;2190-4286,2694,321,Beilstein Journal of Nanotechnology
+Acoustical Physics,stem,T3,1063-7710;1562-6865,2691,169,Acoustical Physics
+Reports on Progress in Physics,stem,T3,0034-4885;1361-6633,2689,202,Reports on Progress in Physics
+Journal of the Energy Institute,stem,T3,0144-2600;1746-0220;1743-9671,2660,935,Journal of the Energy Institute
+Communications Physics,stem,T3,2399-3650,2589,2158,Communications Physics
+Journal of the Indian Chemical Society,stem,T3,0019-4522,2550,1453,Journal of the Indian Chemical Society
+Journal of Modern Physics,stem,T3,2153-1196;2153-120X,2544,204,Journal of Modern Physics
+Open Physics,stem,T3,2391-5471,2498,298,Open Physics
+Glass Physics and Chemistry,stem,T3,1087-6596;1608-313X,2490,349,Glass Physics and Chemistry
+Plasma Chemistry and Plasma Processing,stem,T3,0272-4324;1572-8986,2473,217,Plasma Chemistry and Plasma Processing
+Protection of Metals and Physical Chemistry of Surfaces,stem,T3,2070-2051;2070-206X,2469,236,Protection of Metals and Physical Chemistry of Surfaces
+Journal of Radiation Research and Applied Sciences,stem,T3,1687-8507;1687-8507,2467,1504,Journal of Radiation Research and Applied Sciences
+High Energy Chemistry,stem,T3,0018-1439;1608-3148,2466,359,High Energy Chemistry
+Petroleum Chemistry,stem,T3,0965-5441;1555-6239,2448,270,Petroleum Chemistry
+Progress of Theoretical and Experimental Physics,stem,T3,2050-3911,2447,772,Progress of Theoretical and Experimental Physics
+Chinese Journal of Chemical Physics,stem,T3,1003-7713;1674-0068;2327-2244,2432,214,Chinese Journal of Chemical Physics
+Organic & Biomolecular Chemistry,stem,T3,,2417,2417,
+International Journal of ADVANCED AND APPLIED SCIENCES,stem,T3,2313-626X;2313-3724,2364,668,International Journal of ADVANCED AND APPLIED SCIENCES
+Cogent Engineering,stem,T3,2331-1916;2331-1916,2282,467,Cogent Engineering
+Materials Today Energy,stem,T3,2468-6069,2223,741,Materials Today Energy
+Ukrainian Journal of Physics,stem,T3,2071-0186;2071-0194,2152,206,Ukrainian Journal of Physics
+Physics of Particles and Nuclei,stem,T3,1063-7796;1531-8559,2142,1011,Physics of Particles and Nuclei
+Moscow University Physics Bulletin,stem,T3,0027-1349;1934-8460,2123,371,Moscow University Physics Bulletin
+"Iranian Journal of Science and Technology, Transactions of Civil Engineering",stem,T3,2228-6160;2364-1843,2098,4734,Iranian Journal of Science and Technology Transactions of Civil Engineering
+Bulletin of the Lebedev Physics Institute,stem,T3,1068-3356;1934-838X,2040,962,Bulletin of the Lebedev Physics Institute
+Energy Strategy Reviews,stem,T3,2211-467X,2021,920,Energy Strategy Reviews
+Izvestiya. Ferrous Metallurgy,stem,T3,0368-0797;2410-2091,1992,175,Izvestiya Ferrous Metallurgy
+Communications Chemistry,stem,T3,2399-3669,1980,863,Communications Chemistry
+Journal of Nonlinear Mathematical Physics,stem,T3,1402-9251;1776-0852,1975,236,Journal of Nonlinear Mathematical Physics
+"Sustainable Energy, Grids and Networks",stem,T3,2352-4677,1963,991,Sustainable Energy Grids and Networks
+Physics of the Dark Universe,stem,T3,2212-6864,1945,1812,Physics of the Dark Universe
+Physics of Life Reviews,stem,T3,1571-0645,1929,334,Physics of Life Reviews
+"Engineering Science and Technology, an International Journal",stem,T3,2215-0986,1907,1602,Engineering Science and Technology an International Journal
+Journal of Engineering and Applied Science,stem,T3,1816-949X,1897,3796,Journal of Engineering and Applied Sciences
+Engineering Reports,stem,T3,2577-8196;2577-8196,1889,5706,Engineering Reports
+Materials Today Physics,stem,T3,2542-5293,1868,1572,Materials Today Physics
+Acta Crystallographica Section C Structural Chemistry,stem,T3,2053-2296;2053-2296,1857,214,Acta Crystallographica Section C Structural Chemistry
+International Journal of Computational and Experimental Science and Engineering,stem,T3,2149-9144,1823,9750,International Journal of Computational and Experimental Science and Engineering
+Coke and Chemistry,stem,T3,1068-364X;1934-8398,1821,235,Coke and Chemistry
+Chemistry – An Asian Journal,stem,T3,,1808,1808,
+Hans Journal of Civil Engineering,stem,T3,2326-3458;2326-3466,1799,3369,Hans Journal of Civil Engineering
+Energy Conversion and Management: X,stem,T3,2590-1745,1787,1306,Energy Conversion and Management X
+ACM Transactions on Software Engineering and Methodology,stem,T3,1049-331X;1557-7392,1752,4806,ACM Transactions on Software Engineering and Methodology
+Chinese Journal of Analytical Chemistry,stem,T3,1872-2040,1738,252,Chinese Journal of Analytical Chemistry
+Open Journal of Applied Sciences,stem,T3,2165-3917;2165-3925,1695,577,Open Journal of Applied Sciences
+Critical Reviews in Analytical Chemistry,stem,T3,1040-8347;1547-6510,1679,278,Critical Reviews in Analytical Chemistry
+Chemistry Education Research and Practice,stem,T3,1756-1108;1109-4028,1667,192,Chemistry Education Research and Practice
+Asian Journal of Civil Engineering,stem,T3,1563-0854;2522-011X,1654,4180,Asian Journal of Civil Engineering
+Applied  Physics,stem,T3,0340-3793,1649,199,Applied Physics
+Archives of Computational Methods in Engineering,stem,T3,1134-3060;1886-1784,1643,1519,Archives of Computational Methods in Engineering
+Chemistry Africa,stem,T3,2522-5758;2522-5766,1634,795,Chemistry Africa
+e-Journal of Surface Science and Nanotechnology,stem,T3,1348-0391,1589,94,e-Journal of Surface Science and Nanotechnology
+Wood Material Science & Engineering,stem,T3,,1587,1587,
+Current Analytical Chemistry,stem,T3,1573-4110,1577,184,Current Analytical Chemistry
+Journal of Sustainable Metallurgy,stem,T3,2199-3823;2199-3831,1465,694,Journal of Sustainable Metallurgy
+Journal of Physics Communications,stem,T3,2399-6528,1404,117,Journal of Physics Communications
+ACS ES&T Engineering,stem,T3,2690-0645;2690-0645,1377,3175,ACS ES&T Engineering
+Journal of the Australian Ceramic Society,stem,T3,2510-1560;2510-1579,1355,56,Journal of the Australian Ceramic Society
+Nanotechnology Reviews,stem,T3,2191-9089;2191-9097,1334,308,Nanotechnology Reviews
+"Science China Physics, Mechanics & Astronomy",stem,T3,,1326,1326,
+Applied Physics Reviews,stem,T3,1931-9401;1931-9401,1319,1062,Applied Physics Reviews
+Energy Research & Social Science,stem,T3,,1300,1300,
+Journal of Advanced Ceramics,stem,T3,2226-4108;2227-8508,1291,436,Journal of Advanced Ceramics
+Mineral Processing and Extractive Metallurgy Review,stem,T3,0882-7508;1547-7401,1278,128,Mineral Processing and Extractive Metallurgy Review
+Journal of Sulfur Chemistry,stem,T3,1741-5993;1741-6000,1262,132,Journal of Sulfur Chemistry
+Solid Fuel Chemistry,stem,T3,0361-5219;1934-8029,1249,124,Solid Fuel Chemistry
+BMC Chemistry,stem,T3,2661-801X,1245,667,BMC Chemistry
+Vietnam Journal of Chemistry,stem,T3,0866-7144;2572-8288,1242,318,Vietnam Journal of Chemistry
+Advances in Natural Sciences: Nanoscience and Nanotechnology,stem,T3,2043-6254;2043-6262,1238,172,Advances in Natural Sciences Nanoscience and Nanotechnology
+STUDIES IN ENGINEERING AND EXACT SCIENCES,stem,T3,2764-0981,1222,3429,STUDIES IN ENGINEERING AND EXACT SCIENCES
+ACS Applied Engineering Materials,stem,T3,2771-9545;2771-9545,1193,5404,ACS Applied Engineering Materials
+Journal of Fuel Chemistry and Technology,stem,T3,1872-5813,1190,305,Journal of Fuel Chemistry and Technology
+Analysis and Mathematical Physics,stem,T3,1664-2368;1664-235X,1179,317,Analysis and Mathematical Physics
+Cleaner Engineering and Technology,stem,T3,2666-7908,1178,480,Cleaner Engineering and Technology
+European Journal of Theoretical and Applied Sciences,stem,T3,2786-7447,1176,698,European Journal of Theoretical and Applied Sciences
+Chemical Engineering Journal Advances,stem,T3,2666-8211,1151,2281,Chemical Engineering Journal Advances
+"e-Prime - Advances in Electrical Engineering, Electronics and Energy",stem,T3,2772-6711,1116,4358,e-Prime - Advances in Electrical Engineering Electronics and Energy
+Physical Review Physics Education Research,stem,T3,2469-9896,1111,274,Physical Review Physics Education Research
+East European Journal of Physics,stem,T3,2312-4334;2312-4539,1101,948,East European Journal of Physics
+Journal of Water Chemistry and Technology,stem,T3,1063-455X;1934-936X,1094,128,Journal of Water Chemistry and Technology
+Archives of Civil and Mechanical Engineering,stem,T3,1644-9665;1644-9665,1079,3218,Archives of Civil and Mechanical Engineering
+High Energy Density Physics,stem,T3,1574-1818;1878-0563,1078,124,High Energy Density Physics
+Current Opinion in Green and Sustainable Chemistry,stem,T3,2452-2236,1076,152,Current Opinion in Green and Sustainable Chemistry
+Journal of Contemporary Physics (Armenian Academy of Sciences),stem,T3,1068-3372;1934-9378,1073,120,Journal of Contemporary Physics (Armenian Academy of Sciences)
+Chemical Physics Impact,stem,T3,2667-0224,1040,1887,Chemical Physics Impact
+Sustainable Energy & Fuels,stem,T3,,1039,1039,
+Asian Journal of Research in Chemistry,stem,T3,0974-4169;0974-4150,1039,127,Asian Journal of Research in Chemistry
+Radiological Physics and Technology,stem,T3,1865-0333;1865-0341,1036,268,Radiological Physics and Technology
+Russian Journal of Mathematical Physics,stem,T3,1061-9208;1555-6638,1024,138,Russian Journal of Mathematical Physics
+Nature Reviews Chemistry,stem,T3,2397-3358,966,218,Nature Reviews Chemistry
+Physics and Imaging in Radiation Oncology,stem,T3,2405-6316,957,860,Physics and Imaging in Radiation Oncology
+ACS Applied Optical Materials,stem,T3,2771-9855;2771-9855,955,621,ACS Applied Optical Materials
+EJNMMI Physics,stem,T3,2197-7364;2197-7364,945,250,EJNMMI Physics
+Green Chemistry Letters and Reviews,stem,T3,1751-8253;1751-7192,944,180,Green Chemistry Letters and Reviews
+IEEE Nanotechnology Magazine,stem,T3,1932-4510;1942-7808,943,67,IEEE Nanotechnology Magazine
+Nature Reviews Physics,stem,T3,2522-5820,926,213,Nature Reviews Physics
+Trends in Chemistry,stem,T3,2589-5974,920,224,Trends in Chemistry
+Open Ceramics,stem,T3,2666-5395,915,414,Open Ceramics
+Applied Surface Science Advances,stem,T3,2666-5239,908,370,Applied Surface Science Advances
+Journal of the Turkish Chemical Society Section A: Chemistry,stem,T3,2149-0120,893,181,Journal of the Turkish Chemical Society Section A Chemistry
+Analytical Chemistry Letters,stem,T3,2229-7928;2230-7532,858,139,Analytical Chemistry Letters
+ZAMM - Journal of Applied Mathematics and Mechanics / Zeitschrift für Angewandte Mathematik und Mechanik,stem,T3,,815,815,
+"Journal of High Energy Physics, Gravitation and Cosmology",stem,T3,2380-4327;2380-4335,810,258,Journal of High Energy Physics Gravitation and Cosmology
+"Ferrous Metallurgy. Bulletin of Scientific , Technical and Economic Information",stem,T3,0135-5910;2619-0753,810,163,Ferrous Metallurgy Bulletin of Scientific Technical and Economic Information
+Gas Science and Engineering,stem,T3,2949-9089,796,1487,Gas Science and Engineering
+EUREKA: Physics and Engineering,stem,T3,2461-4254;2461-4262,783,244,EUREKA Physics and Engineering
+Litiyo i Metallurgiya (FOUNDRY PRODUCTION AND METALLURGY),stem,T3,1683-6065;2414-0406,774,129,Litiyo i Metallurgiya (FOUNDRY PRODUCTION AND METALLURGY)
+"Journal of Mining and Metallurgy, Section B: Metallurgy",stem,T3,1450-5339;2217-7175,755,68,Journal of Mining and Metallurgy Section B Metallurgy
+Ceramics,stem,T3,2571-6131,725,316,Ceramics
+Processing and Application of Ceramics,stem,T3,1820-6131;2406-1034,699,87,Processing and Application of Ceramics
+Forensic Chemistry,stem,T3,2468-1709,698,168,Forensic Chemistry
+Izvestiya. Non-Ferrous Metallurgy,stem,T3,0021-3438;2412-8783,675,62,Izvestiya Non-Ferrous Metallurgy
+Communications Engineering,stem,T3,2731-3395,647,482,Communications Engineering
+Journal of Nanotechnology,stem,T3,1687-9503;1687-9511,643,100,Journal of Nanotechnology
+Recent Patents on Nanotechnology,stem,T3,1872-2105,642,89,Recent Patents on Nanotechnology
+Journal of Physics: Photonics,stem,T3,2515-7647,628,322,Journal of Physics Photonics
+Black Sea Journal of Engineering and Science,stem,T3,2619-8991,617,432,Black Sea Journal of Engineering and Science
+Discover Chemistry,stem,T3,3005-1193,614,611,Discover Chemistry
+Journal of Physics: Energy,stem,T3,2515-7655,605,202,Journal of Physics Energy
+"Mining, Metallurgy & Exploration",stem,T3,,604,604,
+Journal of Computational Biophysics and Chemistry,stem,T3,2737-4165;2737-4173,566,297,Journal of Computational Biophysics and Chemistry
+Journal of Physics: Materials,stem,T3,2515-7639,555,157,Journal of Physics Materials
+Ceramics - Silikaty,stem,T3,0862-5468;1804-5847,555,135,Ceramics - Silikaty
+Advanced Physics Research,stem,T3,2751-1200;2751-1200,538,267,Advanced Physics Research
+Chinese Journal of Structural Chemistry,stem,T3,0254-5861,529,416,Chinese Journal of Structural Chemistry
+Current Chemistry Letters,stem,T3,1927-7296;1927-730X,519,161,Current Chemistry Letters
+Frontiers in Nanotechnology,stem,T3,2673-3013,483,185,Frontiers in Nanotechnology
+Combinatorial Chemistry & High Throughput Screening,stem,T3,,472,472,
+Discover Civil Engineering,stem,T3,2948-1546,452,431,Discover Civil Engineering
+Next Nanotechnology,stem,T3,2949-8295,436,405,Next Nanotechnology
+Journal of Physics: Complexity,stem,T3,2632-072X,412,168,Journal of Physics Complexity
+Computational nanotechnology,stem,T3,2313-223X;2587-9693,406,165,Computational nanotechnology
+SciPost Physics Core,stem,T3,2666-9366,402,193,SciPost Physics Core
+Physics,stem,T3,0148-6349;2163-5102,399,1858,Physics
+Precision Chemistry,stem,T3,2771-9316;2771-9316,384,232,Precision Chemistry
+ACS Physical Chemistry Au,stem,T3,2694-2445;2694-2445,357,179,ACS Physical Chemistry Au
+Journal of Advances in Physical Chemistry,stem,T3,2168-6122;2168-6130,348,149,Journal of Advances in Physical Chemistry
+Chemistry,stem,T3,,344,344,
+Physics Open,stem,T3,2666-0326,341,166,Physics Open
+From Chemistry Towards Technology Step-By-Step,stem,T3,2782-1900,336,130,From Chemistry Towards Technology Step-By-Step
+Green Analytical Chemistry,stem,T3,2772-5774,331,246,Green Analytical Chemistry
+Nanotechnology and Precision Engineering,stem,T3,1672-6030;2589-5540,266,109,Nanotechnology and Precision Engineering
+Fundamental and applied problems of ferrous metallurgy,stem,T3,2522-9117;2786-6149,257,70,Fundamental and applied problems of ferrous metallurgy
+Mineral Processing and Extractive Metallurgy: Transactions of the Institutions of Mining and Metallurgy,stem,T3,2572-6641;2572-665X,232,52,Mineral Processing and Extractive Metallurgy Transactions of the Institutions of Mining and Metallurgy
+Chemical Physics Reviews,stem,T3,2688-4070,231,106,Chemical Physics Reviews
+Sustainable Chemistry One World,stem,T3,2950-3574,217,216,Sustainable Chemistry One World
+Sustainable Chemistry for Climate Action,stem,T3,2772-8269,198,156,Sustainable Chemistry for Climate Action
+Romanian Journal of Physics,stem,T3,1221-146X,188,133,Romanian Journal of Physics
+"Nanotechnology, Science and Applications",stem,T3,1177-8903,188,66,Nanotechnology Science and Applications
+Mining Technology: Transactions of the Institutions of Mining and Metallurgy,stem,T3,2572-6668;2572-6676,173,50,Mining Technology Transactions of the Institutions of Mining and Metallurgy
+Chemistry–Methods,stem,T3,,172,172,
+BULLETIN Series of Physics & Mathematical Sciences,stem,T3,,167,167,
+Chemistry & Chemical Technology,stem,T3,,160,160,
+Industrial Chemistry & Materials,stem,T3,,131,131,
+"Semiconductor Physics, Quantum Electronics and Optoelectronics",stem,T3,,123,123,
+Computers and Electrical Engineering,stem,T3,3026-0744,55,10506,Telecommunications Computers and Electricals Engineering Journal
+Nanoscience & Nanotechnology-Asia,stem,T3,,55,55,
+Engineering,stem,T3,3091-499X;3091-5007,36,6060,ENGINEERING Chemical Engineering
+Journal of Engineering Research,stem,T3,2538-516X;2538-516X,12,3230,Journal of Civil Engineering Researchers
+"Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences",stem,T3,,0,2923,Philosophical Transactions of The Royal Society A Mathematical Physical and Engineering Sciences
+"Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences",stem,T3,,0,2334,Proceedings of The Royal Society A Mathematical Physical and Engineering Sciences
+SciPost Physics,stem,T3,,0,1606,SciPost Physics

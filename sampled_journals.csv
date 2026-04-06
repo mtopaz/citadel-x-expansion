@@ -1,0 +1,101 @@
+journal,domain,tier,issn,volume_2024,total_dois
+Atmosphere,cs_ai,1,2073-4433,211,12384
+IEEE Transactions on Antennas and Propagation,cs_ai,1,0018-926X,64,24604
+"IEEJ Transactions on Electronics, Information and Systems",cs_ai,1,0385-4221,396,9847
+AIP Advances,cs_ai,1,2158-3226,95,18672
+Computer Communications,cs_ai,1,0140-3664,153,10802
+Geophysics,cs_ai,1,0016-8033,140,15242
+F1000Research,cs_ai,1,2046-1402,298,17333
+Communications Biology,cs_ai,1,2399-3642,168,9899
+Bioinformatics,cs_ai,1,1367-4803,320,20680
+Cerebral Cortex,cs_ai,1,1047-3211,139,9295
+Machines,cs_ai,2,2075-1702,247,5530
+Computational Geosciences,cs_ai,2,1420-0597,129,1543
+IEEE Transactions on Dependable and Secure Computing,cs_ai,2,1545-5971,129,6622
+Drones,cs_ai,2,2504-446X,202,3422
+BMC Medical Research Methodology,cs_ai,2,1471-2288,145,3840
+Journal of Systems Science and Complexity,cs_ai,2,1009-6124,305,2000
+Internet of Things,cs_ai,2,2542-6605,99,1757
+International Journal of Intelligent Systems,cs_ai,2,0884-8173,347,4003
+Neural Processing Letters,cs_ai,2,1370-4621,373,3304
+Frontiers in Neural Circuits,cs_ai,2,1662-5110,117,1702
+IEEE Systems Journal,cs_ai,2,1932-8184,283,5051
+BMC Psychology,cs_ai,2,2050-7283,59,4418
+Journal of Computational and Graphical Statistics,cs_ai,2,1061-8600,343,2451
+Journal of Medical Systems,cs_ai,2,0148-5598,326,4575
+Artificial Life and Robotics,cs_ai,2,1433-5298,197,2120
+Cell Systems,cs_ai,2,2405-4712,263,1340
+International Journal of Computational Methods,cs_ai,2,0219-8762,179,1673
+The Journal of Neuroscience,cs_ai,2,0964-704X,124,1412
+Information Management and Business Review,cs_ai,2,2220-3796,312,1531
+Advances in Computational Mathematics,cs_ai,2,1019-7168,199,1848
+Frontiers in Big Data,cs_ai,3,2624-909X,204,722
+Machine Intelligence Research,cs_ai,3,2731-538X,284,262
+Foundations of Computational Mathematics,cs_ai,3,1615-3375,78,841
+Journal of Sensor and Actuator Networks,cs_ai,3,2224-2708,235,779
+Journal of computational fluids engineering,cs_ai,3,1598-6071,70,822
+Theoretical and Computational Fluid Dynamics,cs_ai,3,0935-4964,76,1226
+Computational Methods in Applied Mathematics,cs_ai,3,1609-4840,80,963
+"Journal of Transportation Engineering, Part A: Systems",cs_ai,3,2473-2907,364,1331
+Networks and Spatial Economics,cs_ai,3,1566-113X,103,863
+Journal of Automation and Intelligence,cs_ai,3,2949-8554,83,127
+Sustainable Computing: Informatics and Systems,cs_ai,3,2210-5379,298,1149
+The European Journal on Artificial Intelligence,cs_ai,3,3050-4554,136,92
+Journal of Applied Artificial Intelligence,cs_ai,3,2709-5908,66,43
+Computers in Human Behavior: Artificial Humans,cs_ai,3,2949-8821,245,286
+Soil Systems,cs_ai,3,2571-8789,300,822
+Artificial Intelligence Chemistry,cs_ai,3,2949-7477,160,115
+Big Data Mining and Analytics,cs_ai,3,2096-0654,194,381
+IEEE Journal on Multiscale and Multiphysics Computational Techniques,cs_ai,3,2379-8815,73,381
+IEEE Transactions on Networking,cs_ai,3,2998-4157,123,567
+Discover Health Systems,cs_ai,3,2731-7501,261,348
+Journal of Medicinal Chemistry,stem,1,0022-2623,3062,39740
+Journal of the American Chemical Society,stem,1,0002-7863,28261,218082
+Colloids and Surfaces A: Physicochemical and Engineering Aspects,stem,1,0927-7757,50722,33135
+Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms,stem,1,0168-583X,1390,38294
+Procedia Computer Science,stem,1,1877-0509,15388,33546
+Inorganic Chemistry,stem,1,0020-1669,17365,76116
+Sensors,stem,1,1424-8220,18138,76958
+Materials,stem,1,1996-1944,26029,55377
+International Journal of Hydrogen Energy,stem,1,0360-3199,29439,57822
+Journal of Biological Chemistry,stem,1,0021-9258,2797,210992
+Russian Journal of General Chemistry,stem,2,1070-3632,909,10915
+Thin-Walled Structures,stem,2,0263-8231,1935,11382
+Materials Chemistry and Physics,stem,2,0254-0584,14738,26339
+European Journal of Organic Chemistry,stem,2,1434-193X,1540,22538
+Optical Materials,stem,2,0925-3467,3187,17063
+Engineering Structures,stem,2,0141-0296,34305,22127
+Journal of Water Process Engineering,stem,2,2214-7144,36979,9911
+Computer Methods in Applied Mechanics and Engineering,stem,2,0045-7825,14507,16661
+Fusion Engineering and Design,stem,2,0920-3796,8226,16318
+Structures,stem,2,2352-0124,7494,11763
+Environmental Research Letters,stem,2,1748-9326,2134,9663
+Environmental Earth Sciences,stem,2,1866-6280,1526,12733
+Journal of Marine Science and Engineering,stem,2,2077-1312,42496,13260
+Journal of Photochemistry and Photobiology A: Chemistry,stem,2,1010-6030,1828,15230
+Ecotoxicology and Environmental Safety,stem,2,0147-6513,9132,19520
+Journal of Structural Chemistry,stem,2,0022-4766,1003,13036
+Journal of Solid State Chemistry,stem,2,0022-4596,1326,23417
+Frontiers in Chemistry,stem,2,2296-2646,1099,8239
+Materials Characterization,stem,2,1044-5803,3233,11355
+Measurement Science and Technology,stem,2,0957-0233,8202,18263
+"Engineering Science and Technology, an International Journal",stem,3,2215-0986,1602,1907
+Applied Physics Reviews,stem,3,1931-9401,1062,1319
+International Journal of Pavement Engineering,stem,3,1029-8436,3293,2954
+Energy,stem,3,2589-7780,23382,164
+Materials Today Energy,stem,3,2468-6069,741,2223
+Health Science Reports,stem,3,2398-8835,5184,4428
+Low Temperature Physics,stem,3,1063-777X,844,5826
+ACS Applied Bio Materials,stem,3,2576-6422,1746,5514
+Procedia Structural Integrity,stem,3,2452-3216,2174,6723
+ACS Applied Engineering Materials,stem,3,2771-9545,5404,1193
+Journal of Energy Chemistry,stem,3,2095-4956,4200,5759
+Clean Technologies and Environmental Policy,stem,3,1618-954X,724,3687
+Computer-Aided Civil and Infrastructure Engineering,stem,3,1093-9687,2176,3218
+Foods,stem,3,3123-1748,7516,6
+Measurement,stem,3,1350-4487,7813,7037
+Indian Journal of Physics,stem,3,0019-5480,1918,4524
+IEEE Transactions on Network Science and Engineering,stem,3,2327-4697,7788,2834
+Materials Today Bio,stem,3,2590-0064,2121,3031
+Communications Physics,stem,3,2399-3650,2158,2589
+Physics of Particles and Nuclei,stem,3,1063-7796,1011,2142

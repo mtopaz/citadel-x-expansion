@@ -1,9 +1,8 @@
 name: Auto-Continue Scanner
 
+# DISABLED 2026-04-09: was burning OpenAlex/Serper credits via self-retrigger loop.
+# Cron removed; workflow_dispatch kept so it can be re-enabled manually if needed.
 on:
-  # Run every 90 minutes to check if we need to trigger next batch
-  schedule:
-    - cron: '0 */2 * * *'
   workflow_dispatch:
 
 jobs:

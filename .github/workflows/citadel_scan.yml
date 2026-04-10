@@ -64,34 +64,5 @@ jobs:
             scan_${{ matrix.domain }}.log
           retention-days: 30
 
-  chain-next:
-    needs: scan
-    runs-on: ubuntu-latest
-    if: success()
-    steps:
-      - name: Check if we should continue
-        id: check
-        run: |
-          BATCH=${{ inputs.batch || '1' }}
-          MAX_BATCH=20
-          NEXT=$((BATCH + 1))
-          if [ "$NEXT" -le "$MAX_BATCH" ]; then
-            echo "continue=true" >> $GITHUB_OUTPUT
-            echo "next_batch=$NEXT" >> $GITHUB_OUTPUT
-            echo "Batch $BATCH complete. Triggering batch $NEXT..."
-          else
-            echo "continue=false" >> $GITHUB_OUTPUT
-            echo "All $MAX_BATCH batches complete. Stopping."
-          fi
-
-      - name: Trigger next batch
-        if: steps.check.outputs.continue == 'true'
-        env:
-          GH_TOKEN: ${{ secrets.GH_PAT }}
-        run: |
-          curl -s -X POST \
-            -H "Authorization: token $GH_TOKEN" \
-            -H "Accept: application/vnd.github.v3+json" \
-            "https://api.github.com/repos/${{ github.repository }}/actions/workflows/citadel_scan.yml/dispatches" \
-            -d "{\"ref\":\"master\",\"inputs\":{\"batch\":\"${{ steps.check.outputs.next_batch }}\",\"articles_per_cell\":\"${{ inputs.articles_per_cell || '250' }}\"}}"
-          echo "Triggered batch ${{ steps.check.outputs.next_batch }}"
+  # chain-next DISABLED 2026-04-09: was self-retriggering and burning OpenAlex/Serper credits.
+  # The matrix scan above still runs on manual dispatch, but no longer chains to the next batch.
